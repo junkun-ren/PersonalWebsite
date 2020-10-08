@@ -3,16 +3,16 @@ title: Home
 layout: default
 ---
 
-{% include figure.html img="graduation shirt picture copy.jpg" alt="intro image here" caption="selfie" width="55%" %}
+{% include figure.html img="graduation shirt picture copy.jpg" alt="intro image here" caption="selfie" width="60%" %}
 
-# Junkun Ren
-*Peking University*
+# Junkun Ren  
+<span style="font-family:Papyrus; font-size:1em;">_Peking University_ </span> 
 
-Education:
-    - course: M.S. in Epidemiology<br/>
+# Education:
+    - M.S. in Epidemiology<br/>
       *Harvard University*<br/>
       year: 2019<br/>
-    - course: B.S. in Food Science and Engineering<br/>
+    - B.S. in Food Science and Engineering<br/>
       *Shanghai Jiaotong University*<br/>
       year: 2017
 
@@ -26,7 +26,7 @@ Prior to working at the theoretical ecology lab at Peking University, I worked a
 
 I am particularly passionate about understanding and developing models and theories related to ecology and biology. My research interests include food-webs, coexistence, and stability. I am also interested in applying mathematical modeling to questions like infectious disease transmission intervention.
 
-<table border="0">
+<table border="1">
  <tr>
     <td><b style="font-size:15px">Interests</b></td>
     <td><b style="font-size:15px">Areas</b></td>
