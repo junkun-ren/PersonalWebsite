@@ -22,7 +22,7 @@ Advisor: Dr. Shaopeng Wang
 
 {% include figure.html img="multiple zooplankton or phytoplankton illustration.png" alt="model equations" caption="Model equations<br/>i:N,P; j:zooplankton; k:phytoplankton" width="90%" %}
 
-Given the single consumer and model, I started to think about if two zooplankton could coexist in this system. If two zooplankton have different demands of nutrition - one is N-demanding, the other is P-demanding, can they coexist on one species of phytoplankton? Could be, it would be because of a balance between food quantity and quality
+Given the single consumer-single producer model model, it is natural to wonder whether two zooplankton could coexist in this system. If two zooplankton have different demands of nutrition - one is N-demanding, the other is P-demanding, can they coexist on one species of phytoplankton? Could be, it would be because of a balance between food quantity and quality
 
 If the two zooplankton can actually exist, will that enhance the coexistence of multiple phytoplankton as well? Because except phytoplanktons competing for the 2 resources, the existence of zooplankton also enables the apparent competition between the phytoplanktons. According to literature, if there is a trade-off between two phytoplankton (resource and grazing), then one  resource and one zooplankton could enhance the coexistence of these two phyto. Therefore, I predicted 2 resources and 2 zoo, should be able to maintain the coexistence of more phyto. Coexistence of phyto can in turn support 2 zoo as well.
 
