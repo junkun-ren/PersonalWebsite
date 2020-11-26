@@ -18,7 +18,7 @@ Advisor: Dr. Shaopeng Wang
 
 *Assimilation efficiency*: zooplankton's assimilation efficiency of ingested phytoplankton is assumed to be the lowest ratio of nutrient content of phytoplankton to nutrient content of zooplankton.
 
-**Not the nutrient availability is important for these processes, but also the relative amount of different ratio**. 
+**Not the nutrient availability is important for these processes, but also the relative amount of different elements**. Such constrain is shown in red in the equations. It can be seen that 
 
 After I have this model, I started to think about if two zooplankton could coexist in this system. If two zooplankton have different demands of nutrition - one is N-demanding, the other is P-demanding, can they coexist on one species of phytoplankton? Could be, it would be because of a balance between food quantity and quality
 
