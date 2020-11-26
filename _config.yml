@@ -44,4 +44,3 @@ defaults:
       layout: "default"
 # Build settings
 markdown: kramdown
-mathjax: true
