@@ -11,12 +11,6 @@ nav: true
 2. [Salamander](#paragraph2)
 
 
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
-
 ### A stoichiometry food-chain model of plankton community <a name="paragraph1"></a>
 Advisor: Dr. Shaopeng Wang
 
