@@ -3,14 +3,12 @@ title: Research
 nav: true
 ---
 
-## Peking Universiry, Theoretical Ecology Group <br/>
+### A stoichiometry food-chain model of plankton community
 Advisor: Dr. Shaopeng Wang
 
-- Question
-- Built a eco-evolutionary model of <br/>
-- url
+{% include figure.html img="plankton model illustration.png" alt="intro image here" caption="2 level food chain model with stoichiometric constrains in red" width="75%" %}
 
-## Dartmouth College <br/>
+### Dartmouth College <br/>
 Advisor: Dr. Dorothy Wallace
 
 - ddd

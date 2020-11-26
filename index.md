@@ -5,10 +5,10 @@ layout: default
 
 {% include figure.html img="graduation shirt picture copy.jpg" alt="intro image here" width="60%" %}
 
-## Junkun Ren  
+### Junkun Ren  
 <span style="font-family: Helvetica; font-size:1em;">_Peking University_ </span> 
 
-## Education:
+### Education:
 <span style="font-family: Helvetica; font-size:1em;">
     **M.S. in Epidemiology**<br/>
       *Harvard University*<br/>
@@ -22,7 +22,7 @@ I am currently working with [Dr. Shaopeng Wang](http://scholar.pku.edu.cn/spwang
 
 Prior to working at the theoretical ecology lab at Peking University, I worked as a research assistant at the Space Medicine Lab at Dartmouth College to [Dr. Jay Buckey](https://geiselmed.dartmouth.edu/faculty/facultydb/view.php/?uid=426), doing data analysis and epidemiological analysis. I studied epidemiology at Harvard University and food science & engineering at Shanghai Jiao Tong University.
 
-## Research interests
+### Research interests
 
 I am particularly passionate about understanding and developing models and theories related to ecology and biology. My research interests include community ecology, biodiversity and ecosystem functioning, food-webs, stability, etc. I am also interested in applying mathematical modeling to questions about infectious disease transmission.
 
