@@ -5,10 +5,11 @@ nav: true
 
 # Table of contents
 [Current research projects](#introduction)
-1. [Plankton](#paragraph1)
-    1. [Model setup](#subparagraph1)
-    1. [Questions to answer](#subparagraph2)
-2. [Salamander](#paragraph2)
+[Plankton](#paragraph1)
+    [Model setup](#subparagraph1)
+    [Model extension](#subparagraph2)
+    [Questions to answer](#subparagraph3)
+[Salamander](#paragraph2)
 
 
 ### A stoichiometry food-chain model of plankton community <a name="paragraph1"></a>
@@ -28,13 +29,14 @@ Advisor: Dr. Shaopeng Wang
 
 **Not only the nutrient availability is important for these processes, but also the relative amount of different elements matters**. Such constrain is shown in red in the equations. It can be seen that it is "everywhere".
 
+<a name="subparagraph2"></a>
 {% include figure.html img="multiple zooplankton or phytoplankton illustration.png" alt="multiple zooplankton or phytoplankton illustration" caption="Model extension - more species within each trophic level" width="90%" %}
 
 Given the single consumer-single producer model model, it is natural to wonder whether two zooplankton could coexist in this system. If two zooplankton have different demands of nutrition - one is N-demanding, the other is P-demanding, can they coexist on one species of phytoplankton? It might happen, based on theoretical prediction (`Loladze et al. 2004 - Theor. Popul. Biol.`).  Stable coexistence might occur due to a balance between food quality and quantity.
 
 If the two zooplankton can actually coexist, will that enhance the coexistence of multiple phytoplankton as well? Because aside from phytoplankton competing for resources, the existence of zooplankton also enables the apparent competition between the phytoplankton. If there is a trade-off between two phytoplankton (resource and grazing), then one resource and one zooplankton could promote the coexistence of these two phytoplankton. Therefore, it is reasonable to predict that 2 resources and 2 zooplankton might be able to maintain the coexistence of more phytoplankton. And the coexistence of these phytoplankton can in turn support two zooplankton as well.
 
-#### Questions to answer<a name="subparagraph2"></a>
+#### Questions to answer<a name="subparagraph3"></a>
 
 What else to consider? Mixotroph  and
 
