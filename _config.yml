@@ -44,3 +44,5 @@ defaults:
       layout: "default"
 # Build settings
 markdown: kramdown
+
+encoding: UTF-8

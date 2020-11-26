@@ -42,17 +42,17 @@ If the two zooplankton can actually coexist, will that enhance the coexistence o
 
 Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et al., BAAE)```, there are two main questions I hope to answer with this model from a stoichiometry perspective:
 1. Coexistence question
-	- Under different combinations of N,P availability and ratio, can 	different zooplankton and phytoplankton coexist?
-	- Will the evolution of phytoplankton's uptake trait affect coexistence?
-	- etc.
-	- These questions can be summarized into a question - what is the mechanism for coexisten
-		- Role of stoichiometry
-		- maximum & minimum cell element quota,
-		   selectivity, etc.
+ - Under different combinations of N,P availability and ratio, can  different zooplankton and phytoplankton coexist?
+ - Will the evolution of phytoplankton's uptake trait affect coexistence?
+ - maximum & minimum cell element quota,
+     selectivity, etc.
+ - etc.
+ - These questions can be summarized into a question - what is the mechanism for coexistence and what role does stoichiometry play?
+
 2. Biodiversity ? Ecosystem Functioning (BEF) question
-	- Whether biodiversity could enhance the flux of 
-	C (energy)/N/P and transfer efficiency?
-	- Is the effect of biodiversity on function mediated by 	stoichiometry in some way?
+ - Whether biodiversity could enhance the flux of 
+ C (energy)/N/P and transfer efficiency?
+ - Is the effect of biodiversity on function mediated by  stoichiometry in some way?
 
 results show
 I still need to think about why
@@ -65,7 +65,7 @@ Advisor: Dr. Dorothy Wallace
 
 ##### Background
 A theoretical framework integrating tiger salamander population dynamics and migration across a pond network
-Background 
+Background 
 Southern high plains
 Isolated shallow playas 
 Alternative rain and dry season local extinction 
@@ -79,5 +79,3 @@ Advantage to the persistence of this species?
 ##### Migration update
 
 What does migration look like
-
-
