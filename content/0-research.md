@@ -11,6 +11,11 @@ Advisor: Dr. Shaopeng Wang
 {% include figure.html img="equations.png" alt="model equations" caption="Model equations" width="100%" %}
 
 
+This system is assumed to be carbon sufficient and closed in terms of N and P.<br/>
+Stoichiometry is integrated in this model
+
+
+
 ### Dartmouth College <br/>
 Advisor: Dr. Dorothy Wallace
 
