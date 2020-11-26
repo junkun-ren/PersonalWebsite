@@ -12,10 +12,10 @@ layout: default
 <span style="font-family: Helvetica; font-size:1em;">
     **M.S. in Epidemiology**<br/>
       *Harvard University*<br/>
-      year: 2019<br/>
+      Year: 2019<br/>
     **B.S.E. in Food Science and Engineering**<br/>
       *Shanghai Jiao Tong University*<br/>
-      year: 2017
+      Year: 2017
 </span> 
 
 I am currently working with [Dr. Shaopeng Wang](http://scholar.pku.edu.cn/spwang) at the Theoretical Ecology Group at Peking University in Beijing, China and working on a project previously initiated at Dartmouth College with [Dr. Dorothy Wallace](https://math.dartmouth.edu/~dwallace/). 
@@ -57,7 +57,8 @@ I am particularly passionate about understanding and developing models and theor
 
 Contact:
 
-email: junkun.ren.2019@gmail.com
+email: junkun.ren.2019@gmail.com<br/>
+50 Haidian Road, Haidian District, Beijing, China, 100084
 
 > updated Oct 2020
 
