@@ -5,26 +5,26 @@ layout: default
 
 {% include figure.html img="graduation shirt picture copy.jpg" alt="intro image here" caption="selfie" width="60%" %}
 
-# Junkun Ren  
+## Junkun Ren  
 <span style="font-family: Helvetica; font-size:1em;">_Peking University_ </span> 
 
-# Education:
-    - M.S. in Epidemiology<br/>
+## Education:
+<span style="font-family: Helvetica; font-size:1em;">
+    **M.S. in Epidemiology**<br/>
       *Harvard University*<br/>
       year: 2019<br/>
-    - B.S. in Food Science and Engineering<br/>
-      *Shanghai Jiaotong University*<br/>
+    **B.S.E. in Food Science and Engineering**<br/>
+      *Shanghai Jiao Tong University*<br/>
       year: 2017
+</span> 
 
-# About
+I am currently working with [Dr. Shaopeng Wang](http://scholar.pku.edu.cn/spwang) at the Theoretical Ecology Group at Peking University in Beijing, China and working on a project previously initiated at Dartmouth College with [Dr. Dorothy Wallace](https://math.dartmouth.edu/~dwallace/). 
 
-I am currently working with [Dr. Shaopeng Wang](http://scholar.pku.edu.cn/spwang) at the Theoretical Ecology Group at Peking University in Beijing, China and  working on a project previously initiated at Dartmouth College with [Dr. Dorothy Wallace](https://math.dartmouth.edu/~dwallace/). 
+Prior to working at the theoretical ecology lab at Peking University, I worked as a research assistant at the Space Medicine Lab at Dartmouth College to [Dr. Jay Buckey](https://geiselmed.dartmouth.edu/faculty/facultydb/view.php/?uid=426), doing data analysis and epidemiological analysis. I studied epidemiology at Harvard University and food science & engineering at Shanghai Jiao Tong University.
 
-Prior to working at the theoretical ecology lab at Peking University, I worked as a research assistant at the Space Medicine Lab at Dartmouth College, doing data and epidemiological analyses. I studied epidmeiology at Harvard University and food science & engineering at Shanghai Jiao Tong Univerisity, during which I developed good quantitative skills.
+## Research interests
 
-# Research interests
-
-I am particularly passionate about understanding and developing models and theories related to ecology and biology. My research interests include food-webs, coexistence, and stability. I am also interested in applying mathematical modeling to questions like infectious disease transmission intervention.
+I am particularly passionate about understanding and developing models and theories related to ecology and biology. My research interests include community ecology, biodiversity and ecosystem functioning, food-webs, stability, etc. I am also interested in applying mathematical modeling to questions about infectious disease transmission.
 
 <table border="1">
  <tr>
