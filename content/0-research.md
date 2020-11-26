@@ -10,10 +10,13 @@ Advisor: Dr. Shaopeng Wang
 {% include figure.html img="plankton model illustration.png" alt="model illustration" caption="2 level food chain model with stoichiometric constrains in red<br/>This system is assumed to be carbon sufficient and closed in terms of N and P." width="90%" %}
 {% include figure.html img="equations.png" alt="model equations" caption="Model equations<br/>i:N,P; j:zooplankton; k:phytoplankton" width="90%" %}
 
-*Uptake*: there is a linear trade-off between phytoplankton's investment in N update and P uptake, indicating by p_N + p_P = 1. An increase in the relative investment in N uptake (p_N) would mean a decrease in the relative investment in P uptake meanwhile. In this model, it is also assumed that this uptake trade-off trait p_N can be an evolving trait which depends on parameter V. V is the genetic variance of this trait, V = 0 means this trait can't evolve at all. <br/>
-*Growth of phytoplankton*: it is limited by the limiting element. <br/>
-*Grazing*: besides the maximum grazing rate and predation half saturation constant, the grazing rate of zooplankton also depends on the cell element ratio difference between zooplankton and phytoplankton (i.e., nutritional quality). The probability that zooplankton will consume encountered phytoplankton follows Gaussian distribution, whose width depends on the selectivity of zooplankton. Higher selectivity gives a more narrow distribution, reducing the probability of grazing on lower quality phytoplankton. The grazing probability is maximized when consumer and producer have the same N:P ratio. <br/>
-*Assimilation efficiency*: zooplankton's assimilation efficiency of ingested phytoplankton 
+*Uptake*: there is a linear trade-off between phytoplankton's investment in N update and P uptake, indicating by p_N + p_P = 1. An increase in the relative investment in N uptake (p_N) would mean a decrease in the relative investment in P uptake meanwhile. In this model, it is also assumed that this uptake trade-off trait p_N can be an evolving trait which depends on parameter V. V is the genetic variance of this trait, V = 0 means this trait can't evolve at all. 
+
+*Growth of phytoplankton*: it is limited by the limiting element. 
+
+*Grazing*: besides the maximum grazing rate and predation half saturation constant, the grazing rate of zooplankton also depends on the cell element ratio difference between zooplankton and phytoplankton (i.e., nutritional quality). The probability that zooplankton will consume encountered phytoplankton follows Gaussian distribution, whose width depends on the selectivity of zooplankton. Higher selectivity gives a more narrow distribution, reducing the probability of grazing on lower quality phytoplankton. The grazing probability is maximized when consumer and producer have the same N:P ratio.
+
+*Assimilation efficiency*: zooplankton's assimilation efficiency of ingested phytoplankton is assumed to be the lowest ratio of nutrient content of phytoplankton to nutrient content of zooplankton.
 
 **Not the nutrient availability is important for these processes, but also the relative amount of different ratio**. 
 
