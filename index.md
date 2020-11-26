@@ -26,7 +26,7 @@ Prior to working at the theoretical ecology lab at Peking University, I worked a
 
 I am particularly passionate about understanding and developing models and theories related to ecology and biology. My research interests include community ecology, biodiversity and ecosystem functioning, food-webs, stability, etc. I am also interested in applying mathematical modeling to questions about infectious disease transmission.
 
-<table border="1">
+<!-------- <table border="1">
  <tr>
     <td><b style="font-size:15px">Interests</b></td>
     <td><b style="font-size:15px">Areas</b></td>
@@ -45,6 +45,7 @@ I am particularly passionate about understanding and developing models and theor
     </td>
  </tr>
 </table>
+------------->
 
 {% include toc.html %}
 
