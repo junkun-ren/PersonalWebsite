@@ -3,13 +3,13 @@ title: Research
 nav: true
 ---
 
-# Table of contents
+#### Table of contents
 [Current research projects](#introduction)
-[Plankton](#paragraph1)
-    [Model setup](#subparagraph1)
-    [Model extension](#subparagraph2)
-    [Questions to answer](#subparagraph3)
-[Salamander](#paragraph2)
+1.[Plankton](#paragraph1)
+    1.[Model setup](#subparagraph1)
+    2.[Model extension](#subparagraph2)
+    3.[Questions to answer](#subparagraph3)
+2.[Salamander](#paragraph2)
 
 
 ### A stoichiometry food-chain model of plankton community <a name="paragraph1"></a>
