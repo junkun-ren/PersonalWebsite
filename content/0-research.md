@@ -10,7 +10,8 @@ Advisor: Dr. Shaopeng Wang
 {% include figure.html img="plankton model illustration.png" alt="model illustration" caption="2 level food chain model with stoichiometric constrains in red<br/>This system is assumed to be carbon sufficient and closed in terms of N and P." width="90%" %}
 {% include figure.html img="equations.png" alt="model equations" caption="Model equations<br/>i:N,P; j:zooplankton; k:phytoplankton" width="90%" %}
 
-Uptake: there is a linear trade-off between phytoplankton's investment in N update and P uptake, indicating by p_N + p_P = 1. An increase in the relative investment in N uptake (p_N) would mean a decrease in the relative investment in P uptake meanwhile.
+*Uptake*: there is a linear trade-off between phytoplankton's investment in N update and P uptake, indicating by p_N + p_P = 1. An increase in the relative investment in N uptake (p_N) would mean a decrease in the relative investment in P uptake meanwhile. In this model, it is also assumed that this uptake trade-off trait p_N can be an evolving trait which depends on parameter V. V is the genetic variance of this trait, V = 0 means this trait can't evolve at all.<br/>
+*Growth of phytoplankton*: 
 
 After I have this model, I started to think about if two zooplankton could coexist in this system. If two zooplankton have different demands of nutrition - one is N-demanding, the other is P-demanding, can they coexist on one species of phytoplankton? Could be, it would be because of a balance between food quantity and quality
 
