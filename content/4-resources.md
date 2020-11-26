@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Posts
 nav: true
 ---
 
