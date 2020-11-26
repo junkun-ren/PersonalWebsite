@@ -33,21 +33,38 @@ Praesent congue:
 
 Simon book quote
 
-# Table of contents
-1. [Introduction](#introduction)
-2. [Some paragraph](#paragraph1)
-    1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
+website not in use
 
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
 
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
+#### Relavent courses
 
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
+Mathematical Modeling
+Dynamics of Infectious Diseases
+Networks
+Inference and Information?
+Time Series & Prediction
+Applied Longitudinal Analysis
+Causal Inference
+?Epidemiological Methods (causal inference in epidemiology)
+Disordered Systems and Stochastic Processes
+Introduction to Infectious Disease Research?
+Data Science
+Machine Learning (Coursera)
+Analysis of Genetic Association Studies
+Genetic Epidemiology
+Causal Mediation and Interaction
+Data Structures and Algorithms
+Calculus 
+Linear Algebra
+Probability and Statistics
+Life Science/Biology
+Physics
+Physical Chemistry
+Biochemistry
+Organic Chemistry
+Inorganic and Analytic Chemistry
+Food Toxicology
+The History and Concepts of Quantum Physics
+
 

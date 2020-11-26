@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-{% include figure.html img="graduation shirt picture copy.jpg" alt="intro image here" width="60%" %}
+{% include figure.html img="graduation shirt picture copy.jpg" alt="graduation shirt photo" width="60%" %}
 
 ### Junkun Ren  
 <span style="font-family: Helvetica; font-size:1em;">_Peking University_ </span> 
