@@ -7,7 +7,7 @@ nav: true
 Advisor: Dr. Shaopeng Wang
 
 
-{% include figure.html img="plankton model illustration.png" alt="model illustration" caption="2 level food chain model with stoichiometric constrains in red<br/>This system is assumed to be carbon sufficient and closed in terms of N and P." width="90%" %}
+{% include figure.html img="plankton model illustration.png" alt="model illustration" caption="2 level food chain model with stoichiometric constrains in red<br/>This system is assumed to be carbon sufficient and closed in terms of N and P." width="85%" %}
 {% include figure.html img="equations.png" alt="model equations" caption="Model equations<br/>i:N,P; j:zooplankton; k:phytoplankton" width="90%" %}
 
 *Uptake*: there is a linear trade-off between phytoplankton's investment in N update and P uptake, indicating by p_N + p_P = 1. An increase in the relative investment in N uptake (p_N) would mean a decrease in the relative investment in P uptake meanwhile. In this model, it is also assumed that this uptake trade-off trait p_N can be an evolving trait which depends on parameter V. V is the genetic variance of this trait, V = 0 means this trait can't evolve at all. 
@@ -20,9 +20,11 @@ Advisor: Dr. Shaopeng Wang
 
 **Not only the nutrient availability is important for these processes, but also the relative amount of different elements matters**. Such constrain is shown in red in the equations. It can be seen that it is "everywhere".
 
-{% include figure.html img="multiple zooplankton or phytoplankton illustration.png" alt="model equations" caption="Model equations<br/>i:N,P; j:zooplankton; k:phytoplankton" width="90%" %}
+{% include figure.html img="multiple zooplankton or phytoplankton illustration.png" alt="multiple zooplankton or phytoplankton illustration" caption="Model extension - more species within each trophic level" width="90%" %}
 
-Given the single consumer-single producer model model, it is natural to wonder whether two zooplankton could coexist in this system. If two zooplankton have different demands of nutrition - one is N-demanding, the other is P-demanding, can they coexist on one species of phytoplankton? Could be, it would be because of a balance between food quantity and quality
+Given the single consumer-single producer model model, it is natural to wonder whether two zooplankton could coexist in this system. If two zooplankton have different demands of nutrition - one is N-demanding, the other is P-demanding, can they coexist on one species of phytoplankton? It could happen. According to theoretical prediction (`Loladze`)
+
+it would be because of a balance between food quantity and quality
 
 If the two zooplankton can actually exist, will that enhance the coexistence of multiple phytoplankton as well? Because except phytoplanktons competing for the 2 resources, the existence of zooplankton also enables the apparent competition between the phytoplanktons. According to literature, if there is a trade-off between two phytoplankton (resource and grazing), then one  resource and one zooplankton could enhance the coexistence of these two phyto. Therefore, I predicted 2 resources and 2 zoo, should be able to maintain the coexistence of more phyto. Coexistence of phyto can in turn support 2 zoo as well.
 
