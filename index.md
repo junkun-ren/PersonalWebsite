@@ -52,7 +52,7 @@ I am particularly passionate about understanding and developing models and theor
 
 ------
 
-{% include credits.html %}
+{% include template/credits.html %}
 -->
 
 **Contact**:
