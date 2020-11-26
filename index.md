@@ -6,7 +6,7 @@ layout: default
 {% include figure.html img="graduation shirt picture copy.jpg" alt="intro image here" caption="selfie" width="60%" %}
 
 # Junkun Ren  
-<span style="font-family:Papyrus; font-size:1em;">_Peking University_ </span> 
+<span style="font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; font-size:1em;">_Peking University_ </span> 
 
 # Education:
     - M.S. in Epidemiology<br/>
