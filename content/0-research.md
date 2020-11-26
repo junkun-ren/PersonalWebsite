@@ -37,9 +37,9 @@ Given the single consumer-single producer model model, it is natural to wonder w
 If the two zooplankton can actually coexist, will that enhance the coexistence of multiple phytoplankton as well? Because aside from phytoplankton competing for resources, the existence of zooplankton also enables the apparent competition between the phytoplankton. If there is a trade-off between two phytoplankton (resource and grazing), then one resource and one zooplankton could promote the coexistence of these two phytoplankton. Therefore, it is reasonable to predict that 2 resources and 2 zooplankton might be able to maintain the coexistence of more phytoplankton. And the coexistence of these phytoplankton can in turn support two zooplankton as well.
 
 **Questions to answer**<a name="subparagraph3"></a>
-{% include figure.html img="BEF stoichiometry framework.png" alt="BEF stoichiometry framework illustration" caption="A conceptual framework of the stoichiometric relationship between biodiversity and ecosystem functioning (BEF) in food web." width="90%" %}
+{% include figure.html img="BEF stoichiometry framework.png" alt="BEF stoichiometry framework illustration" caption="A conceptual framework of the stoichiometric relationship between biodiversity and ecosystem functioning (BEF) in food web. H. Hillebrand et al., BAAE." width="90%" %}
 
-Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et al., BAAE)```. there are two main questions I hope to answer with this model from a stoichiometry perspective:
+Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et al., BAAE)```, there are two main questions I hope to answer with this model from a stoichiometry perspective:
 1. Coexistence question
 	- Under different combinations of N,P availability and 	ratio, can 	different zooplankton and phytoplankton 	coexist?
 	- Will the evolution of phytoplankton?s uptake trait affect 	coexistence?
@@ -52,6 +52,8 @@ Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et a
 	C (energy)/N/P and transfer efficiency?
 	- Is the effect of biodiversity on function mediated by 	stoichiometry in some way?
 
+results show
+I still need to think about why
 
 What else to consider? Mixotroph  and
 
@@ -59,6 +61,21 @@ What else to consider? Mixotroph  and
 ### Salamander migration <br/> <a name="paragraph2"></a>
 Advisor: Dr. Dorothy Wallace
 
-- ddd
+##### Background
+A theoretical framework integrating tiger salamander population dynamics and migration across a pond network
+Background 
+Southern high plains
+Isolated shallow playas 
+Alternative rain and dry season --> local extinction 
+Phenotypic plasticity
+Two different forms upon maturation
+Advantage to the persistence of this species?
+
+##### Population dynamics
+
+
+##### Migration update
+
+
 
 
