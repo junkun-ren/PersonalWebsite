@@ -31,6 +31,8 @@ Praesent congue:
 {% include figure.html img="uidaho-workshop.jpg" alt="workshop scene" caption="Be sure to replace all the example values!" width="75%" %}
 
 
+Simon book quote
+
 # Table of contents
 1. [Introduction](#introduction)
 2. [Some paragraph](#paragraph1)
