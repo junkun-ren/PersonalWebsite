@@ -37,6 +37,10 @@ Given the single consumer-single producer model model, it is natural to wonder w
 If the two zooplankton can actually coexist, will that enhance the coexistence of multiple phytoplankton as well? Because aside from phytoplankton competing for resources, the existence of zooplankton also enables the apparent competition between the phytoplankton. If there is a trade-off between two phytoplankton (resource and grazing), then one resource and one zooplankton could promote the coexistence of these two phytoplankton. Therefore, it is reasonable to predict that 2 resources and 2 zooplankton might be able to maintain the coexistence of more phytoplankton. And the coexistence of these phytoplankton can in turn support two zooplankton as well.
 
 #### Questions to answer<a name="subparagraph3"></a>
+{% include figure.html img="BEF stoichiometry framework.png" alt="BEF stoichiometry framework illustration" caption="Model extension - more species within each trophic level" width="90%" %}
+
+(H. Hillebrand et al., Basic and Applied Ecology)
+
 
 What else to consider? Mixotroph  and
 
