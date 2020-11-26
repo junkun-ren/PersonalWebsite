@@ -12,7 +12,7 @@ This [site](https://evanwill.github.io/workshop-template-b/) demonstrates the ou
  `_config.yml` 
 
 {% endcapture %}
-{% include card.md header="Overview" text=text %}
+{% include card.html header="Overview" text=text %}
 
 ## Config
 

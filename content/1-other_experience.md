@@ -8,7 +8,7 @@ nav: true
 {% capture text %}Note:
 WOW
 {% endcapture %}
-{% include alert.md text=text color=secondary %}
+{% include alert.html text=text color=secondary %}
 
 `pdf` 
 
