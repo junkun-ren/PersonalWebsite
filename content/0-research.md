@@ -12,7 +12,7 @@ Advisor: Dr. Shaopeng Wang
 
 *Uptake*: there is a linear trade-off between phytoplankton's investment in N update and P uptake, indicating by p_N + p_P = 1. An increase in the relative investment in N uptake (p_N) would mean a decrease in the relative investment in P uptake meanwhile. In this model, it is also assumed that this uptake trade-off trait p_N can be an evolving trait which depends on parameter V. V is the genetic variance of this trait, V = 0 means this trait can't evolve at all. <br/>
 *Growth of phytoplankton*: it is limited by the limiting element. <br/>
-*Grazing*: besides the maximum grazing rate and predation half saturation constant, the grazing rate of zooplankton also depends on
+*Grazing*: besides the maximum grazing rate and predation half saturation constant, the grazing rate of zooplankton also depends on the cell element quota difference between zooplankton and phytoplankton. 
 
 After I have this model, I started to think about if two zooplankton could coexist in this system. If two zooplankton have different demands of nutrition - one is N-demanding, the other is P-demanding, can they coexist on one species of phytoplankton? Could be, it would be because of a balance between food quantity and quality
 
