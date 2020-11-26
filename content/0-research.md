@@ -3,10 +3,23 @@ title: Research
 nav: true
 ---
 
-### A stoichiometry food-chain model of plankton community
+# Table of contents
+[Current research projects](#introduction)
+1. [Plankton](#paragraph1)
+    1. [Model setup](#subparagraph1)
+2. [Salamander](#paragraph2)
+
+
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text
+
+### A stoichiometry food-chain model of plankton community <a name="paragraph1"></a>
 Advisor: Dr. Shaopeng Wang
 
-
+<a name="subparagraph1"></a>
 {% include figure.html img="plankton model illustration.png" alt="model illustration" caption="2 level food chain model with stoichiometric constrains in red<br/>This system is assumed to be carbon sufficient and closed in terms of N and P." width="85%" %}
 {% include figure.html img="equations.png" alt="model equations" caption="Model equations<br/>i:N,P; j:zooplankton; k:phytoplankton" width="90%" %}
 
@@ -29,7 +42,7 @@ If the two zooplankton can actually coexist, will that enhance the coexistence o
 What else to consider? Mixotroph  and
 
 
-### Dartmouth College <br/>
+### Salamander migration <br/> <a name="paragraph2"></a>
 Advisor: Dr. Dorothy Wallace
 
 - ddd
