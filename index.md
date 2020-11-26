@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-{% include figure.html img="graduation shirt picture copy.jpg" alt="intro image here" caption="selfie" width="60%" %}
+{% include figure.html img="graduation shirt picture copy.jpg" alt="intro image here" width="60%" %}
 
 ## Junkun Ren  
 <span style="font-family: Helvetica; font-size:1em;">_Peking University_ </span> 
@@ -26,7 +26,8 @@ Prior to working at the theoretical ecology lab at Peking University, I worked a
 
 I am particularly passionate about understanding and developing models and theories related to ecology and biology. My research interests include community ecology, biodiversity and ecosystem functioning, food-webs, stability, etc. I am also interested in applying mathematical modeling to questions about infectious disease transmission.
 
-<!-------- <table border="1">
+<!--
+ <table border="1">
  <tr>
     <td><b style="font-size:15px">Interests</b></td>
     <td><b style="font-size:15px">Areas</b></td>
@@ -45,7 +46,7 @@ I am particularly passionate about understanding and developing models and theor
     </td>
  </tr>
 </table>
-------------->
+-->
 
 {% include toc.html %}
 
