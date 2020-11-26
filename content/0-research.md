@@ -18,13 +18,15 @@ Advisor: Dr. Shaopeng Wang
 
 *Assimilation efficiency*: zooplankton's assimilation efficiency of ingested phytoplankton is assumed to be the lowest ratio of nutrient content of phytoplankton to nutrient content of zooplankton.
 
-**Not only the nutrient availability is important for these processes, but also the relative amount of different elements matters**. Such constrain is shown in red in the equations. It can be seen that 
+**Not only the nutrient availability is important for these processes, but also the relative amount of different elements matters**. Such constrain is shown in red in the equations. It can be seen that it is "everywhere".
 
-After I have this model, I started to think about if two zooplankton could coexist in this system. If two zooplankton have different demands of nutrition - one is N-demanding, the other is P-demanding, can they coexist on one species of phytoplankton? Could be, it would be because of a balance between food quantity and quality
+{% include figure.html img="multiple zooplankton or phytoplankton illustration.png" alt="model equations" caption="Model equations<br/>i:N,P; j:zooplankton; k:phytoplankton" width="90%" %}
+
+Given the single consumer and model, I started to think about if two zooplankton could coexist in this system. If two zooplankton have different demands of nutrition - one is N-demanding, the other is P-demanding, can they coexist on one species of phytoplankton? Could be, it would be because of a balance between food quantity and quality
 
 If the two zooplankton can actually exist, will that enhance the coexistence of multiple phytoplankton as well? Because except phytoplanktons competing for the 2 resources, the existence of zooplankton also enables the apparent competition between the phytoplanktons. According to literature, if there is a trade-off between two phytoplankton (resource and grazing), then one  resource and one zooplankton could enhance the coexistence of these two phyto. Therefore, I predicted 2 resources and 2 zoo, should be able to maintain the coexistence of more phyto. Coexistence of phyto can in turn support 2 zoo as well.
 
-What else to consider? Mixotroph
+What else to consider? Mixotroph  and
 
 
 ### Dartmouth College <br/>
