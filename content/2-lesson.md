@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: About
 nav: true
 ---
 
