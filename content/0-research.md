@@ -39,11 +39,13 @@ If the two zooplankton can actually coexist, will that enhance the coexistence o
 **Questions to answer**<a name="subparagraph3"></a>
 {% include figure.html img="BEF stoichiometry framework.png" alt="BEF stoichiometry framework illustration" caption="A conceptual framework of the stoichiometric relationship between biodiversity and ecosystem functioning (BEF) in food web. H. Hillebrand et al., BAAE." width="90%" %}
 
+
 Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et al., BAAE)```, there are two main questions I hope to answer with this model from a stoichiometry perspective:
 1. Coexistence question
-	- Under different combinations of N,P availability and 	ratio, can 	different zooplankton and phytoplankton 	coexist?
-	- Will the evolution of phytoplankton?s uptake trait affect 	coexistence?
-	- Coexistence mechanism
+	- Under different combinations of N,P availability and ratio, can 	different zooplankton and phytoplankton coexist?
+	- Will the evolution of phytoplankton's uptake trait affect coexistence?
+	- etc.
+	- T Coexistence mechanism
 		- Role of stoichiometry
 		- maximum & minimum cell element quota,
 		   selectivity, etc.
@@ -66,7 +68,7 @@ A theoretical framework integrating tiger salamander population dynamics and mig
 Background 
 Southern high plains
 Isolated shallow playas 
-Alternative rain and dry season --> local extinction 
+Alternative rain and dry season local extinction 
 Phenotypic plasticity
 Two different forms upon maturation
 Advantage to the persistence of this species?
