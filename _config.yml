@@ -1,6 +1,4 @@
-# workshop-template-b, evanwill
-# https://github.com/evanwill/workshop-template-b
-# A Jekyll template for a simple workshop website
+# based on workshop-template-b, evanwill, https://github.com/evanwill/workshop-template-b
 
 # Site settings
 # title appears in the header
@@ -20,12 +18,12 @@ pub_year: 2020
 github_username: junkunren
 
 # add the full url for the github repository
-repo: "https://github.com/junkunren/PersonalWebsite"
+repo: "https://github.com/junkun-ren/PersonalWebsite"
 
 # site urls
 # add the url for the domain,
 # on gh-pages follow the pattern: https://username.github.io 
-url: https://junkunren.github.io 
+url: https://junkun-ren.github.io 
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
 baseurl: /PersonalWebsite
