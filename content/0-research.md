@@ -45,7 +45,7 @@ Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et a
 	- Under different combinations of N,P availability and ratio, can 	different zooplankton and phytoplankton coexist?
 	- Will the evolution of phytoplankton's uptake trait affect coexistence?
 	- etc.
-	- T Coexistence mechanism
+	- These questions can be summarized into a question - what is the mechanism for coexisten
 		- Role of stoichiometry
 		- maximum & minimum cell element quota,
 		   selectivity, etc.
