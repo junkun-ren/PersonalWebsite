@@ -18,9 +18,9 @@ layout: default
       Year: 2017
 </span> 
 
-I am currently working with [Dr. Shaopeng Wang](http://scholar.pku.edu.cn/spwang) at the Theoretical Ecology Group at Peking University in Beijing, China and working on a project previously initiated at Dartmouth College with [Dr. Dorothy Wallace](https://math.dartmouth.edu/~dwallace/). 
+I am currently working with [Dr. Shaopeng Wang](http://scholar.pku.edu.cn/spwang) at the Theoretical Ecology Group at Peking University (Beijing, China) on a project theoretically investigating stoichiometry in food web and consequent coexistence and BEF relationship, and working with [Dr. Dorothy Wallace](https://math.dartmouth.edu/~dwallace/) on a project previously initiated at Dartmouth College studying the migration of tiger salamander enabled by phenotypic plasticity. 
 
-Prior to working at the theoretical ecology lab at Peking University, I worked as a research assistant at the Space Medicine Lab at Dartmouth College to [Dr. Jay Buckey](https://geiselmed.dartmouth.edu/faculty/facultydb/view.php/?uid=426), doing data analysis and epidemiological analysis. I studied epidemiology at Harvard University and food science & engineering at Shanghai Jiao Tong University.
+Prior to joining the theoretical ecology lab at Peking University, I worked as a research assistant at the Space Medicine Lab at Dartmouth College to [Dr. Jay Buckey](https://geiselmed.dartmouth.edu/faculty/facultydb/view.php/?uid=426), doing data analysis and epidemiological analysis. I studied epidemiology at Harvard University and food science & engineering at Shanghai Jiao Tong University.
 
 ### Research interests
 
