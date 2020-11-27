@@ -14,8 +14,10 @@ nav: true
     2. [Population dynamics](#subparagraph2-2)
     3. [Migration update](#subparagraph2-3)
 
-
+{% capture text %}
 ### A stoichiometry food-chain model of plankton community <a name="paragraph1"></a>
+{% endcapture %}
+{% include alert.html text=text color=secondary %}
 Advisor: Dr. Shaopeng Wang
 
 <a name="subparagraph1"></a>
@@ -70,7 +72,10 @@ Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et a
 - I didn't expect the decrease in both fluxes when adding more producers. Working on figuring out why by simulation and analytical analysis!
 
 
+{% capture text %}
 ### A theoretical framework integrating tiger salamander population dynamics and migration across a pond network <br/> <a name="paragraph2"></a>
+{% endcapture %}
+{% include alert.html text=text color=secondary %}
 Advisor: Dr. Dorothy Wallace
 
 ##### Background<a name="subparagraph2-1"></a>
