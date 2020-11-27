@@ -70,20 +70,16 @@ Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et a
 - I didn't expect the decrease in both fluxes when adding more producers. Working on figuring out why by simulation and analytical analysis!
 
 
-### Salamander migration <br/> <a name="paragraph2"></a>
+### A theoretical framework integrating tiger salamander population dynamics and migration across a pond network <br/> <a name="paragraph2"></a>
 Advisor: Dr. Dorothy Wallace
 
 ##### Background<a name="subparagraph2-1"></a>
-A theoretical framework integrating tiger salamander population dynamics and migration across a pond network
-Background 
-Southern high plains
-Isolated shallow playas 
-Alternative rain and dry season local extinction 
-Phenotypic plasticity
-Two different forms upon maturation
-Advantage to the persistence of this species?
+- The pond network is based on the thousands of Isolated shallow playas at Southern high plains. These transient playas could dry out during dry seasons leading to the local extinction of tiger salamander *Ambystoma tigrinum*.
+- Tiger salamander have two forms of adults, metamorph (terrestrial) and paedomorph (aquatic).  Upon maturation, juveniles could become either of the forms (i.e., phenotypic plasticity), where metamophs have the ability to migrate. 
+- Dispersal and recolonization of those transient ponds are essential for the persistence of tiger salamander.
 
-##### Population dynamics<a name="subparagraph2-2"></a>
+##### Single pond population dynamics<a name="subparagraph2-2"></a>
+{% include figure.html img="single pond population dynamics.png" alt="single pond population dynamics" caption="One circle update of single pond population" width="95%" %}
 
 
 ##### Migration update<a name="subparagraph2-3"></a>
