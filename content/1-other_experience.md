@@ -12,25 +12,26 @@ nav: true
 {% endcapture %}
 {% include alert.html text=text color=secondary %}
 
-Space Medicine Innovations Laboratory, Department of Biomedical Research, Dartmouth College, Hanover, NH
-Advisor: Dr. Jay Buckey
+Space Medicine Innovations Laboratory, Department of Biomedical Research, Dartmouth College, Hanover, NH<br/>
+Advisor: Dr. Jay Buckey<br/>
 *Aug.2019 - Aug.2020*
 
 Main projects:
 - Developed approach using urinary calcium to track bone loss in space.
 - Evaluated effect of antiretroviral drug penetration on hearing loss and cognitive impairment.
 - Developed case definition and investigated potential cause for unexplained acquired auditory neuropathy in young Tanzanian adults.
-Other work:
 
+Other work:
+- Database management: (using )
 
 {% capture text %}
 #### Previous research experience <a name="paragraph2"></a>
 {% endcapture %}
 {% include alert.html text=text color=secondary %}
 
-Master thesis project
-Harvard T.H. Chan School of Public Health, Boston, MA
-*Nov.2018 - May.2019*
+Master thesis project<br/>
+Harvard T.H. Chan School of Public Health, Boston, MA<br/>
+*Nov.2018 - May.2019*<br/>
 Advisor: Dr. Edward Giovannucci, Dr. Kathryn Wilson
 
 - Conducted prospective study to investigate associations between regular and decaffeinated coffee intakes and tumor angiogenesis measured by microvessel density, vessel size, and irregularity in >560 diagnosed prostate cancer patients:
@@ -38,18 +39,18 @@ Advisor: Dr. Edward Giovannucci, Dr. Kathryn Wilson
 	- Observed no significant association, suggesting coffee consumption might affect prostate cancer risk through other mechanisms uninvolved with angiogenesis.  
 
 
-LG Rahme Lab, Massachusetts General Hospital, Boston, MA
-*Jun.-Aug.2018*
-Supervisor: Dr. Laurence Rahme, Dr. Amy Tsurumi 
+LG Rahme Lab, Massachusetts General Hospital, Boston, MA<br/>
+*Jun.-Aug.2018*<br/>
+Supervisor: Dr. Laurence Rahme, Dr. Amy Tsurumi <br/>
                      
 - Built model to predict vulnerability to infections in burn and trauma patients in prospective cohort study: 
 	- Processed data collected for the Inflammation and Host Response to Injury (Glue Grant) study based on study design. Conducted massive data cleaning and exploratory data analysis. 
 	- Employed stepwise, Lasso, and Ridge regression to select predictors. Employed multivariate logistic regression to predict infection event. Assessed performance by cross-validation based on AUROC. 
 
 
-Undergraduate thesis project
-Food Safety and Microorganism, SJTU-Bor S.Luh Food Safety Research Center, Shanghai, China
-*Mar.2016 - May.2017*
+Undergraduate thesis project<br/>
+Food Safety and Microorganism, SJTU-Bor S.Luh Food Safety Research Center, Shanghai, China<br/>
+*Mar.2016 - May.2017*<br/>
 Advisor: Dr. Chunlei Shi
 
 - Studied effect of meat exudate on biofilm formation of Listeria Monocytogenes (LM):
@@ -57,7 +58,7 @@ Advisor: Dr. Chunlei Shi
 	- Inspected LM biofilm with polystyrene microtiter plate assay. Compared formation abilities among different LM serotypes and meat exudate origins.
 
 
-*Mar.-Aug.2015*
+*Mar.-Aug.2015*<br/>
 Advisor: Dr. Pu Jing
 
 - Promoted extraction efficiency of anthocyanin from purple sweet potatoes (PSPs). Studied antioxidant activity of anthocyanin-rich extracts from PSPs in C. elegans:
