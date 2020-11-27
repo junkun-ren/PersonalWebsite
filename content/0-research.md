@@ -54,7 +54,7 @@ Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et a
 **Example results**<a name="subparagraph4"></a>
 <div>
 {% include figure.html img="TE3.png" alt="BEF stoichiometry framework illustration" caption="A conceptual framework of the stoichiometric relationship between biodiversity and ecosystem functioning (BEF) in food web. H. Hillebrand et al., BAAE." width="90%" %}
-{% include figure.html img="phyto to zoo.png" alt="BEF stoichiometry framework illustration" caption="A conceptual framework of the stoichiometric relationship between biodiversity and ecosystem functioning (BEF) in food web. H. Hillebrand et al., BAAE." width="90%" %}
+{% include figure.html img="phyto to zoo flux3.png" alt="BEF stoichiometry framework illustration" caption="A conceptual framework of the stoichiometric relationship between biodiversity and ecosystem functioning (BEF) in food web. H. Hillebrand et al., BAAE." width="90%" %}
 </div>
 
 I still need to think about why
