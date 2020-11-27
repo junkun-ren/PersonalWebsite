@@ -64,11 +64,7 @@ Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et a
 {% include figure.html img="flux and TE comparison.png" alt="TE and flux comparison between elements and different producer/consumer diversity" caption="Transfer efficiency and flux comparison between elements and different producer/consumer diversity at intermediate N, P supply" width="95%" %}
 
 - increasing the diversity of consumer and producer in sequence, both the transfer efficiency and the flux between producer and consumer regardless of element first increase and then decline, while the flux into producer decreases all the way.
-- 
-
-I still need to think about why
-
-
+- I didn't expect the decrease in both fluxes when adding more producers. Working on figuring out why by simulation and analytical analysis!
 
 
 ### Salamander migration <br/> <a name="paragraph2"></a>
