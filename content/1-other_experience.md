@@ -8,13 +8,18 @@ nav: true
 
     
 {% capture text %}
-### Work experience <a name="paragraph1"></a>
+#### Work experience <a name="paragraph1"></a>
 {% endcapture %}
 {% include alert.html text=text color=secondary %}
 
+Space Medicine Innovations Laboratory, Department of Biomedical Research, Dartmouth College, Hanover, NH
+Advisor: Dr. Jay Buckey
+Aug.2019-Aug.2020
+- Developed approach using urinary calcium to track bone loss in space.
+- Evaluated effect of antiretroviral drug penetration on hearing loss and cognitive impairment. · Developed case definition and investigated potential cause for unexplained acquired auditory neuropathy in young Tanzanian adults.
 
 {% capture text %}
-### Previous research experience <a name="paragraph2"></a>
+#### Previous research experience <a name="paragraph2"></a>
 {% endcapture %}
 {% include alert.html text=text color=secondary %}
 

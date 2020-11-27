@@ -92,7 +92,7 @@ Advisor: Dr. Dorothy Wallace
 
 ##### Migration update<a name="subparagraph2-3"></a>
 {% include figure.html img="migration illustration.png" alt="migration illustration" caption="Migration illustration (blue: permanent pond)" width="45%" %}
-Migration update algorithm
+**Migration update algorithm**:
 - Simplified model (no population dynamics involved; `D. Wallace et al. 2014 - Appl. Math. Comput.`)
 	- Find all unpopulated ponds, then for each one of them, identify all its near ponds and the distances in between. Calculate the overall probability of updating unpopulated nodes to populated (i.e., the probability that at least one populated neighbor pond would migrate to the pond of interest) based on migration probability and distance.
 	- Find all populated ponds, determine whether to update each of them to unpopulated based on extinction probability.
@@ -105,6 +105,6 @@ In order to make migration process more realistic, we integrate population dynam
 	- All terrestrial adults migrate to the recipient neighbor pond, i.e., there will be no more terrestrial adults in this pond at this step. 
 	- Next population update (including extinction).
    
-Illustration 
+**Illustration**:
 
 
