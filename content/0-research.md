@@ -86,12 +86,19 @@ Advisor: Dr. Dorothy Wallace
 - We assume youth of the year and juveniles mature quickly into adults so that there are only adults after each update.  
 
 ##### Migration update<a name="subparagraph2-3"></a>
-{% include figure.html img="migration illustration.png" alt="migration illustration" caption="Migration illustration (blue: permanent pond)" width="65%" %}
+{% include figure.html img="migration illustration.png" alt="migration illustration" caption="Migration illustration (blue: permanent pond)" width="45%" %}
 Migration update algorithm
-- Simplified model (no population dynamics involved)
-
+- Simplified model (no population dynamics involved; `D. Wallace et al. 2014 - Appl. Math. Comput.`)
+   1) find all unpopulated nodes,  then find their near nodes and the distances in between. Calculate the probability of updating unpopulated nodes to populated.
+   2) find all populated nodes, then use extinction probability  to decide whether to update to unpopulated.
 
 In order to make migration process more realistic, we integrate population dynamics in each pond into migration.
-
-What does migration look like
+- Integrated model (population dynamics incorporated)
+   1) Population update (including extinction)
+   2) find all nodes that have terrestrial adults, decide whether to migrate based on migration probability.
+   3) randomly choose the neighbor pond who will receive terrestrial adults, with probability inversely proportional to distance.
+   4) all migrate to this neighbor pond. 
+   5) Population update (including extinction)
+   
+- Illustration - What does migration look like?
 
