@@ -89,16 +89,17 @@ Advisor: Dr. Dorothy Wallace
 {% include figure.html img="migration illustration.png" alt="migration illustration" caption="Migration illustration (blue: permanent pond)" width="45%" %}
 Migration update algorithm
 - Simplified model (no population dynamics involved; `D. Wallace et al. 2014 - Appl. Math. Comput.`)
-   1) find all unpopulated ponds, then for each one of them, identify all its near ponds and the distances in between. Calculate the overall probability of updating unpopulated nodes to populated (i.e., the probability that at least one populated neighbor pond would migrate to the pond of interest) based on migration probability and distance.
-   2) find all populated ponds, determine whether to update each of them to unpopulated based on extinction probability.
+	- Find all unpopulated ponds, then for each one of them, identify all its near ponds and the distances in between. Calculate the overall probability of updating unpopulated nodes to populated (i.e., the probability that at least one populated neighbor pond would migrate to the pond of interest) based on migration probability and distance.
+	- Find all populated ponds, determine whether to update each of them to unpopulated based on extinction probability.
 
 In order to make migration process more realistic, we integrate population dynamics in each pond into migration.
 - Integrated model (population dynamics incorporated)
-   1) Population update (including extinction)
-   2) find all nodes that have terrestrial adults, decide whether to migrate based on migration probability.
-   3) randomly choose the neighbor pond who will receive terrestrial adults, with probability inversely proportional to distance.
-   4) all migrate to this neighbor pond. 
-   5) Population update (including extinction)
+	- Population update (including extinction).
+	- Find all ponds that have terrestrial adults, determine whether each of these ponds will migrate independently based on migration probability.
+	- If does migrate, randomly choose which neighbor pond will receive the terrestrial adults, with probability inversely proportional to the distance between this pond and the recipient pond.
+	- All terrestrial adults migrate to the recipient neighbor pond, i.e., there will be no more terrestrial adults in this pond at this step. 
+	- Next population update (including extinction).
    
-- Illustration - What does migration look like?
+- Illustration 
+What does migration look like?
 
