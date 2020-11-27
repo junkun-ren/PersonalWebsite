@@ -100,6 +100,6 @@ In order to make migration process more realistic, we integrate population dynam
 	- All terrestrial adults migrate to the recipient neighbor pond, i.e., there will be no more terrestrial adults in this pond at this step. 
 	- Next population update (including extinction).
    
-- Illustration 
-What does migration look like?
+Illustration 
+
 
