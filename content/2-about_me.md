@@ -3,68 +3,47 @@ title: About me
 nav: true
 ---
 
-# Get Started
+#### Education:
+<span style="font-family: Helvetica; font-size:1em;">
+    **M.S. in Epidemiology**<br/>
+      *Harvard University*<br/>
+      Year: 2019<br/>
+    **B.S.E. in Food Science and Engineering**<br/>
+      *Shanghai Jiao Tong University*<br/>
+      Year: 2017
+</span> 
 
-The `workshop-template-b` [repository](https://github.com/evanwill/workshop-template-b) is a skeleton project. 
-This [site](https://evanwill.github.io/workshop-template-b/) demonstrates the output on gh-pages, and the content pages serve as examples.
+#### Relavent courses
+- Undergraduate
+	- Linear Algebra, Calculus (2 semesters), Probability and Statistics, Biostatistics
+	- Inorganic and Analytic chemistry, Organic chemistry, Biochemistry, Physical Chemistry
+	- Physics (2 semesters), Food engineering
+	- Life on the Earth, Life Science, Biology, Microbiology
+- Master
+	- Mathematical Modeling, Disordered Systems and Stochastic Processes
+	- Data Science, Networks, Data Structures and Algorithms
+	- Time Series and Prediction, Inference and Information, Applied Longitudinal Analysis, 
+	- Causal Inference, Causal Mediation and Interaction
+	- Dynamics of Infectious Diseases, Epidemiological Methods, xxx (Audit)
+- Others
+	- Theoretical Ecology (Audit Peking Univeristy)
+	- Machine Learning (Coursera)
+	
 
-{% capture text %}
- `_config.yml` 
+<!--
+Introduction to Infectious Disease Research
+Analysis of Genetic Association Studies
+Genetic Epidemiology
+Food Toxicology
+The History and Concepts of Quantum Physics
+-->
 
-{% endcapture %}
-{% include card.html header="Overview" text=text %}
-
-## Config
-
-Edit the `_config.yml` to get your workshop website set up.
-
-```
-Praesent congue:
-    eros = eget
-    accumsan euismod
-```
-
-> Pellentesque sodales, felis auctor auctor rutrum, velit quam interdum erat, sit amet placerat urna nisl at justo.
-
-## Substep
-
-{% include figure.html img="uidaho-workshop.jpg" alt="workshop scene" caption="Be sure to replace all the example values!" width="75%" %}
-
-
+#### Interests shift
 Simon book quote
 
 
-website not in use
+Previous website (not in use)
 
 
-#### Relavent courses
-
-Mathematical Modeling
-Dynamics of Infectious Diseases
-Networks
-Inference and Information?
-Time Series & Prediction
-Applied Longitudinal Analysis
-Causal Inference
-?Epidemiological Methods (causal inference in epidemiology)
-Disordered Systems and Stochastic Processes
-Introduction to Infectious Disease Research?
-Data Science
-Machine Learning (Coursera)
-Analysis of Genetic Association Studies
-Genetic Epidemiology
-Causal Mediation and Interaction
-Data Structures and Algorithms
-Calculus 
-Linear Algebra
-Probability and Statistics
-Life Science/Biology
-Physics
-Physical Chemistry
-Biochemistry
-Organic Chemistry
-Inorganic and Analytic Chemistry
-Food Toxicology
-The History and Concepts of Quantum Physics
 
 

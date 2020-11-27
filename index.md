@@ -8,15 +8,6 @@ layout: default
 ### Junkun Ren  
 <span style="font-family: Helvetica; font-size:1em;">_Peking University_ </span> 
 
-### Education:
-<span style="font-family: Helvetica; font-size:1em;">
-    **M.S. in Epidemiology**<br/>
-      *Harvard University*<br/>
-      Year: 2019<br/>
-    **B.S.E. in Food Science and Engineering**<br/>
-      *Shanghai Jiao Tong University*<br/>
-      Year: 2017
-</span> 
 
 I am currently working with [Dr. Shaopeng Wang](http://scholar.pku.edu.cn/spwang) at the Theoretical Ecology Group at Peking University (Beijing, China) on a project theoretically investigating stoichiometry in food web and consequent coexistence and BEF relationship, and working with [Dr. Dorothy Wallace](https://math.dartmouth.edu/~dwallace/) on a project previously initiated at Dartmouth College studying the migration of tiger salamander enabled by phenotypic plasticity. 
 
