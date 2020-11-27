@@ -49,7 +49,8 @@ Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et a
 
 2. Biodiversity and Ecosystem Functioning (BEF) question
  - Whether biodiversity could enhance the flux of C (energy)/N/P and transfer efficiency?
- - Is the effect of biodiversity on function mediated by stoichiometry in some way?
+ - Is the effect of biodiversity on function mediated by stoichiometry in some way?<br/>
+ Besides, I am curious what would happen if the strict dichotomy between autotroph and heterotroph is removed, i.e., allowing mixotrophy.
 
 **Example results**<a name="subparagraph4"></a>
 {% include figure.html img="TE3.png" alt="Transfer efficiency under different nutrient supply and single or two zooplankton comparison" caption="Zooplankton diversity and different nutrient supply on transfer efficiency" width="95%" %}
@@ -60,11 +61,14 @@ Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et a
 - Increasing N,P input doesn?t necessarily promote transfer efficiency but in general could promote the flux.
 - The flux from resource to phytoplankton has similar patterns as the flux from phytoplankton to zooplankton (results not shown).
 
-{% include figure.html img="flux and TE comparison.png" alt="TE and flux comparison between elements and different producer/consumer diversity" caption="Transfer efficiency and flux comparison between elements and different producer/consumer diversity" width="95%" %}
+{% include figure.html img="flux and TE comparison.png" alt="TE and flux comparison between elements and different producer/consumer diversity" caption="Transfer efficiency and flux comparison between elements and different producer/consumer diversity at intermediate N, P supply" width="95%" %}
+
+- increasing the diversity of consumer and producer in sequence, both the transfer efficiency and the flux between producer and consumer regardless of element first increase and then decline, while the flux into producer decreases all the way.
+- 
 
 I still need to think about why
 
-What else to consider? Mixotroph  and
+
 
 
 ### Salamander migration <br/> <a name="paragraph2"></a>
