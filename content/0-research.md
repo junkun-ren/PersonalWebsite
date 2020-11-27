@@ -53,9 +53,15 @@ Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et a
 
 **Example results**<a name="subparagraph4"></a>
 <div>
-{% include figure.html img="TE3.png" alt="BEF stoichiometry framework illustration" caption="A conceptual framework of the stoichiometric relationship between biodiversity and ecosystem functioning (BEF) in food web. H. Hillebrand et al., BAAE." width="90%" %}
-{% include figure.html img="phyto to zoo flux3.png" alt="BEF stoichiometry framework illustration" caption="A conceptual framework of the stoichiometric relationship between biodiversity and ecosystem functioning (BEF) in food web. H. Hillebrand et al., BAAE." width="90%" %}
+{% include figure.html img="TE3.png" alt="BEF stoichiometry framework illustration" caption="A conceptual framework of the stoichiometric relationship between biodiversity and ecosystem functioning (BEF) in food web. H. Hillebrand et al., BAAE." width="50%" %}
+{% include figure.html img="phyto to zoo flux3.png" alt="BEF stoichiometry framework illustration" caption="A conceptual framework of the stoichiometric relationship between biodiversity and ecosystem functioning (BEF) in food web. H. Hillebrand et al., BAAE." width="50%" %}
 </div>
+
+- Energy transfer efficiency is much lower than element transfer efficiency; carbon flux is much higher than element flux between consumer and producer
+- The diversity of consumers can enhance transfer efficiency; the diversity of consumers doesn?t necessarily enhance the flux from phytoplankton to zooplankton
+- Increasing N,P input doesn?t necessarily promote transfer efficiency; increasing N,P input in general could promote the flux
+
+
 
 I still need to think about why
 
