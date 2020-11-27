@@ -13,11 +13,11 @@ I am currently working with [Dr. Shaopeng Wang](http://scholar.pku.edu.cn/spwang
 
 Prior to joining the theoretical ecology lab at Peking University, I worked as a research assistant at the Space Medicine Lab at Dartmouth College to [Dr. Jay Buckey](https://geiselmed.dartmouth.edu/faculty/facultydb/view.php/?uid=426), doing data analysis and epidemiological analysis. I studied epidemiology at Harvard University and food science & engineering at Shanghai Jiao Tong University.
 
+<!--
 ### Research interests
 
 I am particularly passionate about understanding and developing models and theories related to ecology and biology. My research interests include community ecology, biodiversity and ecosystem functioning, food-webs, stability, etc. I am also interested in applying mathematical modeling to questions about infectious disease transmission.
 
-<!--
  <table border="1">
  <tr>
     <td><b style="font-size:15px">Interests</b></td>
@@ -37,7 +37,6 @@ I am particularly passionate about understanding and developing models and theor
     </td>
  </tr>
 </table>
-
 
 {% include toc.html %}
 

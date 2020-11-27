@@ -2,6 +2,34 @@
 title: About me
 nav: true
 ---
+#### Research interests
+I am particularly passionate about understanding and developing models and theories related to ecology and biology. My research interests include community ecology, biodiversity and ecosystem functioning, food-webs, stability, etc. I am also interested in applying mathematical modeling to questions about infectious disease transmission.
+
+Simon book quote
+
+interest shift
+
+<!--
+ <table border="1">
+ <tr>
+    <td><b style="font-size:15px">Interests</b></td>
+    <td><b style="font-size:15px">Areas</b></td>
+    <td><b style="font-size:15px">Methodology</b></td>
+ </tr>
+ <tr>
+    <td> 
+        - theoretical ecology <br/>
+        - mathematical biology
+    </td>
+    <td>
+        - Food-web  <br/>
+        - Coexistence  <br/> 
+        - Stability <br/>
+        - Disease ecology<br/>
+    </td>
+ </tr>
+</table>
+-->
 
 #### Education:
 <span style="font-family: Helvetica; font-size:1em;">
@@ -14,6 +42,13 @@ nav: true
      *Exchange, National University of Singapore*<br/>
      Year: 2015
 </span> 
+
+#### CV
+
+`{% raw %}{% include button.html text="CV" link="https://getbootstrap.com/docs/4.1/components/buttons/" color="info" %}{% endraw %}`
+
+{% include button.html text="Bootstrap Docs" link="https://getbootstrap.com/docs/4.1/components/buttons/" color="info" %}
+
 
 #### Relavent courses
 - Undergraduate
@@ -48,15 +83,6 @@ Genetic Epidemiology
 Food Toxicology
 The History and Concepts of Quantum Physics
 -->
-
-#### Interests shift
-Simon book quote
-
-#### CV
-
-`{% raw %}{% include button.html text="CV" link="https://getbootstrap.com/docs/4.1/components/buttons/" color="info" %}{% endraw %}`
-
-{% include button.html text="Bootstrap Docs" link="https://getbootstrap.com/docs/4.1/components/buttons/" color="info" %}
 
 
 Previous website (not in use)
