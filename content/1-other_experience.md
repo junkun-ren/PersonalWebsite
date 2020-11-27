@@ -2,16 +2,21 @@
 title: Other Experience
 nav: true
 ---
+##### Other experience
+1. [Work experience](#paragraph1)
+2. [Previous research experience](#paragraph2)
 
-### Work
-
+    
 {% capture text %}
-Note: WOW
+### Work experience <a name="paragraph1"></a>
 {% endcapture %}
 {% include alert.html text=text color=secondary %}
 
 
-### Other research 
+{% capture text %}
+### Previous research experience <a name="paragraph2"></a>
+{% endcapture %}
+{% include alert.html text=text color=secondary %}
 
 ?Harvard T.H. Chan School of Public Health, Boston, MA
 Master thesis project
@@ -54,8 +59,4 @@ Acquired C. elegans and maintained them independently for 3 months. Cultured str
 
 
 
-
-
-some data analysis examples
-use bootstrap card or link bottom 
 
