@@ -81,12 +81,17 @@ Advisor: Dr. Dorothy Wallace
 ##### Single pond population dynamics<a name="subparagraph2-2"></a>
 {% include figure.html img="single pond population dynamics illustration.png" alt="single pond population dynamics" caption="One circle update of single pond population" width="75%" %}
 {% include figure.html img="population update table.png" alt="population update table" caption="Population dynamics at each discrete time step in one circle update" width="75%" %}
-{% include figure.html img="population update equations.png" alt="single pond population update equations" caption="One circle update of single pond population equations" width="65%" %}
+{% include figure.html img="population update equations.png" alt="single pond population update equations" caption="One circle update of single pond adult population equations" width="65%" %}
 
-- Troubleshooting and problem solving
-	- 
+- We assume youth of the year and juveniles mature quickly into adults so that there are only adults after each update.  
 
 ##### Migration update<a name="subparagraph2-3"></a>
+{% include figure.html img="migration illustration.png" alt="migration illustration" caption="Migration illustration (blue: permanent pond)" width="65%" %}
+Migration update algorithm
+- Simplified model (no population dynamics involved)
+
+
+In order to make migration process more realistic, we integrate population dynamics in each pond into migration.
 
 What does migration look like
 
