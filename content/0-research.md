@@ -79,10 +79,11 @@ Advisor: Dr. Dorothy Wallace
 - Dispersal and recolonization of those transient ponds are essential for the persistence of tiger salamander.
 
 ##### Single pond population dynamics<a name="subparagraph2-2"></a>
-{% include figure.html img="single pond population dynamics.png" alt="single pond population dynamics" caption="One circle update of single pond population" width="75%" %}
 {% include figure.html img="population update table.png" alt="single pond population dynamics" caption="One circle update of single pond population" width="75%" %}
 {% include figure.html img="population update equations.png" alt="single pond population dynamics" caption="One circle update of single pond population" width="65%" %}
 
+- Troubleshooting and problem solving
+	- 
 
 ##### Migration update<a name="subparagraph2-3"></a>
 
