@@ -8,8 +8,11 @@ nav: true
     1. [Model setup](#subparagraph1)
     2. [Model extension](#subparagraph2)
     3. [Questions to answer](#subparagraph3)
-    3. [Example results](#subparagraph4)
+    4. [Example results](#subparagraph4)
 2. [Salamander](#paragraph2)
+    1. [Background](#subparagraph2-1)
+    2. [Population dynamics](#subparagraph2-2)
+    3. [Migration update](#subparagraph2-3)
 
 
 ### A stoichiometry food-chain model of plankton community <a name="paragraph1"></a>
@@ -70,7 +73,7 @@ Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et a
 ### Salamander migration <br/> <a name="paragraph2"></a>
 Advisor: Dr. Dorothy Wallace
 
-##### Background
+##### Background<a name="subparagraph2-1"></a>
 A theoretical framework integrating tiger salamander population dynamics and migration across a pond network
 Background 
 Southern high plains
@@ -80,9 +83,10 @@ Phenotypic plasticity
 Two different forms upon maturation
 Advantage to the persistence of this species?
 
-##### Population dynamics
+##### Population dynamics<a name="subparagraph2-2"></a>
 
 
-##### Migration update
+##### Migration update<a name="subparagraph2-3"></a>
 
 What does migration look like
+
