@@ -108,3 +108,9 @@ In order to make migration process more realistic, we integrate population dynam
 **Illustration**:
 
 
+
+continuous model:
+equilibrium has feasibility? 
+the time taken to become equilibrium, if too long might cause to extinction, allee effect
+
+
