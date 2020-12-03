@@ -15,7 +15,8 @@ nav: true
     3. [Migration update](#subparagraph2-3)
 
 {% capture text %}
-#### An eco-evolutionary stoichiometry food-web model of the plankton community <a name="paragraph1"></a>
+<a name="paragraph1"></a>
+#### An eco-evolutionary stoichiometry food-web model of the plankton community 
 {% endcapture %}
 {% include alert.html text=text color=secondary %}
 Advisor: Dr. Shaopeng Wang
@@ -75,13 +76,14 @@ Besides, I am curious what would happen if the strict dichotomy between autotrop
 [Go to top](#top)
 
 {% capture text %}
-#### A theoretical framework integrating tiger salamander population dynamics and migration across a pond network <br/> <a name="paragraph2"></a>
+<a name="paragraph2"></a>
+#### A theoretical framework integrating tiger salamander population dynamics and migration across a pond network <br/> 
 {% endcapture %}
 {% include alert.html text=text color= secondary %}
 Advisor: Dr. Dorothy Wallace
 
 ##### Background<a name="subparagraph2-1"></a>
-- The pond network is based on the thousands of Isolated shallow playas at Southern high plains. These transient playas could dry out during dry seasons leading to the local extinction of tiger salamander *Ambystoma tigrinum*.
+- The pond network is based on the thousands of Isolated shallow playas at Southern high plains. These transient playas could dry out during dry seasons leading to the local extinction of tiger salamander (*Ambystoma tigrinum*).
 - Tiger salamander have two forms of adults, metamorph (terrestrial) and paedomorph (aquatic).  Upon maturation, juveniles could become either of the forms (i.e., phenotypic plasticity), where metamophs have the ability to migrate. 
 - Dispersal and recolonization of those transient ponds are essential for the persistence of tiger salamander.
 
