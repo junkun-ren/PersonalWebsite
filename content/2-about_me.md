@@ -49,13 +49,13 @@ My research interests are mechanism-focused and theoretically-focused. I am part
 	- Linear Algebra, Calculus (2 semesters), Probability and Statistics, Biostatistics
 	- Inorganic and Analytic chemistry, Organic chemistry, Biochemistry, Physical Chemistry
 	- Physics (2 semesters), Food engineering
-	- Life on the Earth, Life Science, Biology, Microbiology
+	- Life on the Earth, Life Science, Biology, Microbiology, Toxicology
 - Master
 	- Mathematical Modeling, Disordered Systems and Stochastic Processes
 	- Data Science, Networks, Data Structures and Algorithms
 	- Time Series and Prediction, Inference and Information, Applied Longitudinal Analysis, 
 	- Causal Inference, Causal Mediation and Interaction
-	- Dynamics of Infectious Diseases, Epidemiological Methods, xxx (Audit)
+	- Dynamics of Infectious Diseases, Epidemiological Methods, Mathematical Modeling of Infectious Diseases (Audit), Introduction to Infectious Disease Research
 - Others
 	- Theoretical Ecology (Audit Peking Univeristy)
 	- Machine Learning (Coursera)
