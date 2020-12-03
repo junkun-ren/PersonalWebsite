@@ -28,7 +28,7 @@ Advisor: Dr. Shaopeng Wang
 
 *Growth of phytoplankton*: it is limited by the limiting element. 
 
-*Grazing*: besides the maximum grazing rate and predation half saturation constant, the grazing rate of zooplankton also depends on the cell element ratio difference between zooplankton and phytoplankton (i.e., nutritional quality). The probability that zooplankton will consume encountered phytoplankton follows Gaussian distribution, whose width depends on the selectivity of zooplankton. Higher selectivity gives a more narrow distribution, reducing the probability of grazing on lower quality phytoplankton. The grazing probability is maximized when consumer and producer have the same N:P ratio.
+*Grazing*: besides the maximum grazing rate and predation half saturation constant, the grazing rate of zooplankton also depends on the cell element ratio difference between zooplankton and phytoplankton (i.e., nutritional quality). The probability that zooplankton will consume encountered phytoplankton follows a Gaussian distribution, whose width depends on the grazing selectivity of zooplankton. A higher selectivity gives a more narrow distribution, reducing the probability of grazing on lower quality phytoplankton. The grazing probability is maximized when the consumer and producer have the same N:P ratio.
 
 *Assimilation efficiency*: zooplankton's assimilation efficiency of ingested phytoplankton is assumed to be the lowest ratio of nutrient content of phytoplankton to nutrient content of zooplankton.
 
