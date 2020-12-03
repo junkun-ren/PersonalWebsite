@@ -5,6 +5,7 @@ nav: true
 ##### Other experience
 1. [Work experience](#paragraph1)
 2. [Previous research experience](#paragraph2)
+<!--3. [Coursework projects](#paragraph3)-->
 
     
 {% capture text %}
@@ -51,7 +52,6 @@ Advisor: Dr. Amy Tsurumi, Dr. Laurence Rahme <br/>
 - Built model to predict vulnerability to infections in burn and trauma patients in prospective cohort study: 
 	- Processed data collected for the Inflammation and Host Response to Injury (Glue Grant) study based on study design. Conducted massive data cleaning and exploratory data analysis. 
 	- Employed stepwise, Lasso, and Ridge regression to select predictors. Employed multivariate logistic regression to predict infection event. Assessed performance by cross-validation based on AUROC. 
-
 
 
 Food Safety and Microorganism, SJTU-Bor S.Luh Food Safety Research Center, Shanghai, China<br/>
