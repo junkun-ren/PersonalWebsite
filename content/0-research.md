@@ -113,7 +113,7 @@ In order to make the migration process more realistic, I integrated the populati
 	- Next within pond population update (including extinction).
    
 **Illustration**:
-{% include modal.html button="&nbsp; Migration video &nbsp;" color="info" title="Illustration videos" text="I am working on embedding the video!" %}
+{% include modal.html button="&nbsp; Migration video &nbsp;" color="info" title="Illustration videos" text="I am working on embedding the videos!" %}
 <!--
 continuous model:
 equilibrium has feasibility? 
