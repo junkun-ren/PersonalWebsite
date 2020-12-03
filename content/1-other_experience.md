@@ -21,9 +21,14 @@ Main projects:
 - Evaluated effect of antiretroviral drug penetration on hearing loss and cognitive impairment.
 - Developed case definition and investigated potential cause for unexplained acquired auditory neuropathy in young Tanzanian adults.
 
-Other work:
-- Database management: (using SQLite with the MatLab interface)
-- Random data analysis/statistical analysis
+Other duties:
+- Data analysis/statistical analysis for some other ongoing projects in the lab or statistical method part of proposals
+- Assisting with database management: (using SQLite with the MatLab interface)
+- Assisting with study protocol development
+- Testing/troubleshooting equipments
+- Testing/updating softwares
+- Testing subjects
+
 
 {% capture text %}
 #### Previous research experience <a name="paragraph2"></a>
