@@ -93,9 +93,10 @@ Advisor: Dr. Dorothy Wallace
 {% include figure.html img="population update equations.png" alt="single pond population update equations" caption="One circle update of single pond adult population" width="65%" %}
 
 - We assume that youth of the year and juveniles mature quickly into adults so that there are only adults after each update.  
+- The exponent tau of the carrying capacity term (tau << 1) was added in order to prevent from overshooting. If the paedomorph abundance in a pond overshoots the carrying capacity, then the paedomorph abundance might become negative at the next time step.
 
 ##### Migration update<a name="subparagraph2-3"></a>
-{% include figure.html img="migration illustration.png" alt="migration illustration" caption="Migration illustration (blue: permanent pond)" width="45%" %}
+{% include figure.html img="migration illustration.png" alt="migration illustration" caption="Migration across a network of ponds (blue: permanent pond)" width="45%" %}
 **Migration update algorithm**:
 - Simplified model (no population dynamics involved; `D. Wallace et al. 2014 - Appl. Math. Comput.`)
 	- Find all unpopulated ponds, then for each one of them, identify all its near ponds and the distances in between. Calculate the overall probability of updating unpopulated nodes to populated (i.e., the probability that at least one populated neighbor pond would migrate to the pond of interest) based on migration probability and distance.
@@ -110,7 +111,7 @@ In order to make migration process more realistic, we integrate population dynam
 	- Next population update (including extinction).
    
 **Illustration**:
-{% include modal.html button="&nbsp; Migration video &nbsp;" color="info" title="Illustration video" text="I am working on embedding the video!" %}
+{% include modal.html button="&nbsp; Migration video &nbsp;" color="info" title="Illustration videos" text="I am working on embedding the video!" %}
 <!--
 continuous model:
 equilibrium has feasibility? 
