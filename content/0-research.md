@@ -53,8 +53,9 @@ Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et a
 
 2. Biodiversity and Ecosystem Functioning (BEF) question
  - Whether biodiversity could enhance the flux of C(energy)/N/P and transfer efficiency?
- - Is the effect of biodiversity on function mediated by stoichiometry in some way?<br/>
--Besides, I am curious what would happen if the strict dichotomy between autotroph and heterotroph is removed, i.e., allowing mixotrophy.
+ - Is the effect of biodiversity on ecosystem functioning mediated by stoichiometry in some way?<br/>
+
+Besides, I am curious what would happen if the strict dichotomy between autotroph and heterotroph is removed. I will further extend the model by allowing mixotrophy to investigate it.
 
 **Example results**<a name="subparagraph4"></a>
 {% include figure.html img="TE3.png" alt="Transfer efficiency under different nutrient supply and single or two zooplankton comparison" caption="Zooplankton diversity and different nutrient supply on transfer efficiency" width="95%" %}
