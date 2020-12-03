@@ -106,11 +106,11 @@ Advisor: Dr. Dorothy Wallace
 
 In order to make the migration process more realistic, I integrated the population dynamics in each pond into the migration process.
 - Integrated model (population dynamics incorporated)
-	- Population update (including extinction).
-	- Find all ponds that have terrestrial adults, determine whether each of these ponds will migrate independently based on migration probability.
-	- If does migrate, randomly choose which neighbor pond will receive the terrestrial adults, with probability inversely proportional to the distance between this pond and the recipient pond.
-	- All terrestrial adults migrate to the recipient neighbor pond, i.e., there will be no more terrestrial adults in this pond at this step. 
-	- Next population update (including extinction).
+	- Within pond population update (including extinction).
+	- Find all ponds that have metamorphs, independently determine whether the metamorphs in each of these ponds will migrate at this step based on the migration probability.
+	- If does migrate, randomly choose which neighbor pond will receive these metamorphs, with probability inversely proportional to the distance between the departure pond and the recipient pond.
+	- All metamorphs in the departure pond migrate to the recipient neighbor pond, i.e., there will be no more terrestrial adults in the departure pond at this step. 
+	- Next within pond population update (including extinction).
    
 **Illustration**:
 {% include modal.html button="&nbsp; Migration video &nbsp;" color="info" title="Illustration videos" text="I am working on embedding the video!" %}
