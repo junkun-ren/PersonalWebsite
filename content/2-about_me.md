@@ -41,7 +41,7 @@ My research interests are mechanism-focused and theoretically-focused. I am part
 </span> 
 
 
-{% include button.html text=" &nbsp;CV&nbsp;" link="https://junkun-ren.github.io/PersonalWebsite/content/2-about_me.html" color="info" %}
+{% include button.html text=" &nbsp;nbsp;CVnbsp;&nbsp;" link="https://junkun-ren.github.io/PersonalWebsite/content/2-about_me.html" color="info" %}
 
 
 #### Relavent courses
@@ -57,7 +57,7 @@ My research interests are mechanism-focused and theoretically-focused. I am part
 	- Causal Inference, Causal Mediation and Interaction
 	- Dynamics of Infectious Diseases, Epidemiological Methods, Mathematical Modeling of Infectious Diseases (Audit), Introduction to Infectious Disease Research
 - Others
-	- Theoretical Ecology (Audit Peking Univeristy)
+	- Theoretical Ecology (Audit, Peking University)
 	- Machine Learning (Coursera)
 	
 #### Publication
