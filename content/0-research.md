@@ -21,7 +21,7 @@ nav: true
 Advisor: Dr. Shaopeng Wang
 
 <a name="subparagraph1"></a>
-{% include figure.html img="plankton model illustration.png" alt="model illustration" caption="2-level food-chain model with stoichiometric constrains indicated in red.<br/>This system is assumed to be carbon sufficient and closed in terms of N and P." width="85%" %}
+{% include figure.html img="plankton model illustration.png" alt="model illustration" caption="2-level food-chain model with stoichiometric constraints indicated in red.<br/>This system is assumed to be carbon sufficient and closed in terms of N and P." width="85%" %}
 {% include figure.html img="equations.png" alt="model equations" caption="Model equations<br/>i:N,P; j:zooplankton; k:phytoplankton" width="90%" %}
 
 *Uptake*: there is a linear trade-off between phytoplankton's investment in N update and P uptake, indicated by p_N + p_P = 1. An increase in the relative investment in N uptake (p_N) would meanwhile correspond to a decrease in the relative investment in P uptake. In the model, it is also assumed that this uptake trade-off trait p_N can be an evolving trait, depending on parameter V. V is the genetic variance of this trait, and V = 0 means this trait can't evolve at all. 
@@ -32,7 +32,7 @@ Advisor: Dr. Shaopeng Wang
 
 *Assimilation efficiency*: zooplankton's assimilation efficiency of ingested phytoplankton is assumed to be the lowest ratio of nutrient content of phytoplankton to nutrient content of zooplankton.
 
-**Not only the nutrient availability is important for these processes, but also the relative amount of different elements matters**. Such constrain is shown in red in the equations. It can be seen that it is "everywhere".
+**Not only the nutrient availability is important for these processes, the relative amount of different elements also matters**. Such constraints are shown in red in the equations. It can be seen that it is "everywhere".
 
 <a name="subparagraph2"></a>
 {% include figure.html img="multiple zooplankton or phytoplankton illustration.png" alt="multiple zooplankton or phytoplankton illustration" caption="Model extension - more species within each trophic level" width="90%" %}
