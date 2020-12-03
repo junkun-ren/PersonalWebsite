@@ -24,7 +24,7 @@ Advisor: Dr. Shaopeng Wang
 {% include figure.html img="plankton model illustration.png" alt="model illustration" caption="2-level food-chain model with stoichiometric constrains indicated in red.<br/>This system is assumed to be carbon sufficient and closed in terms of N and P." width="85%" %}
 {% include figure.html img="equations.png" alt="model equations" caption="Model equations<br/>i:N,P; j:zooplankton; k:phytoplankton" width="90%" %}
 
-*Uptake*: there is a linear trade-off between phytoplankton's investment in N update and P uptake, indicating by p_N + p_P = 1. An increase in the relative investment in N uptake (p_N) would mean a decrease in the relative investment in P uptake meanwhile. In this model, it is also assumed that this uptake trade-off trait p_N can be an evolving trait which depends on parameter V. V is the genetic variance of this trait, V = 0 means this trait can't evolve at all. 
+*Uptake*: there is a linear trade-off between phytoplankton's investment in N update and P uptake, indicated by p_N + p_P = 1. An increase in the relative investment in N uptake (p_N) would meanwhile correspond to a decrease in the relative investment in P uptake. In the model, it is also assumed that this uptake trade-off trait p_N can be an evolving trait, depending on parameter V. V is the genetic variance of this trait, and V = 0 means this trait can't evolve at all. 
 
 *Growth of phytoplankton*: it is limited by the limiting element. 
 

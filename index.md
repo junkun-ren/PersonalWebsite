@@ -46,7 +46,7 @@ I am particularly passionate about understanding and developing models and theor
 -->
 
 **Contact**:
-Email: [junkun.ren.2019@gmail.com]<br/>
+Email: junkun.ren.2019@gmail.com<br/>
 50 Haidian Road, Haidian District, Beijing, China, 100084
 
 > Updated Nov 2020
