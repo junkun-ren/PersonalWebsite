@@ -49,20 +49,20 @@ Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et a
  - Under different combinations of N,P availability and ratio, can different zooplankton and phytoplankton coexist?
  - Will the evolution of phytoplankton's uptake trait affect coexistence?
  - How will the variation and variability of parameters like maximum & minimum cell element quota and grazing selectivity affect coexistence?<br/>
-These questions can be summarized into one question - what is the mechanism of coexistence and what role does stoichiometry play in it?
+-These questions can be summarized into one question - what is the mechanism of coexistence and what role does stoichiometry play in it?
 
 2. Biodiversity and Ecosystem Functioning (BEF) question
- - Whether biodiversity could enhance the flux of C (energy)/N/P and transfer efficiency?
+ - Whether biodiversity could enhance the flux of C(energy)/N/P and transfer efficiency?
  - Is the effect of biodiversity on function mediated by stoichiometry in some way?<br/>
-Besides, I am curious what would happen if the strict dichotomy between autotroph and heterotroph is removed, i.e., allowing mixotrophy.
+-Besides, I am curious what would happen if the strict dichotomy between autotroph and heterotroph is removed, i.e., allowing mixotrophy.
 
 **Example results**<a name="subparagraph4"></a>
 {% include figure.html img="TE3.png" alt="Transfer efficiency under different nutrient supply and single or two zooplankton comparison" caption="Zooplankton diversity and different nutrient supply on transfer efficiency" width="95%" %}
 {% include figure.html img="phyto to zoo flux3.png" alt="producer to consumer flux under different nutrient supply and single or two zooplankton comparison" caption="Zooplankton diversity and different nutrient supply on flux between phytoplankton and zooplankton" width="95%" %}
 
 - Energy transfer efficiency is much lower than element transfer efficiency; carbon flux is much higher than element flux between consumer and producer.
-- The diversity of consumers can enhance transfer efficiency while doesn?t necessarily enhance the flux from phytoplankton to zooplankton.
-- Increasing N,P input doesn?t necessarily promote transfer efficiency but in general could promote the flux.
+- The diversity of consumers can enhance transfer efficiency while doesn't necessarily enhance the flux from phytoplankton to zooplankton.
+- Increasing N,P input doesn't necessarily promote transfer efficiency but in general could promote the flux.
 - The flux from resource to phytoplankton has similar patterns as the flux from phytoplankton to zooplankton (results not shown).
 
 {% include figure.html img="flux and TE comparison.png" alt="TE and flux comparison between elements and different producer/consumer diversity" caption="Transfer efficiency and flux comparison between elements and different producer/consumer diversity at intermediate N, P supply" width="95%" %}
