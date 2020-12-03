@@ -36,12 +36,12 @@ My research interests are mechanism-focused and theoretically-focused. I am part
     **B.S.E. in Food Science and Engineering**<br/>
       *Shanghai Jiao Tong University*<br/>
       Year: 2017<br/>
-     *Exchange, National University of Singapore*<br/>
+     Exchange, *National University of Singapore*<br/>
      Year: 2015
 </span> 
 
 
-{% include button.html text="CV" link="https://junkun-ren.github.io/PersonalWebsite/content/2-about_me.html" color="info" %}
+{% include button.html text="     CV     " link="https://junkun-ren.github.io/PersonalWebsite/content/2-about_me.html" color="info" %}
 
 
 #### Relavent courses
