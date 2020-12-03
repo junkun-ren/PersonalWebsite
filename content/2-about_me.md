@@ -68,7 +68,7 @@ My research interests are mechanism-focused and theoretically-focused. I am part
 
 #### Conference
 - Ren et al., (2020, Jan.). Urinary calcium for tracking bone loss and kidney stone risk in space. **Oral presentation**
-at *the 2020 NASA Human Research Program Investigators? Workshop*, Galveston, TX, USA.
+at *the 2020 NASA Human Research Program Investigators' Workshop*, Galveston, TX, USA.
 
 <!--
 Introduction to Infectious Disease Research
