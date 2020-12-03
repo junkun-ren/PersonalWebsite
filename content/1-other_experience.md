@@ -22,7 +22,8 @@ Main projects:
 - Developed case definition and investigated potential cause for unexplained acquired auditory neuropathy in young Tanzanian adults.
 
 Other work:
-- Database management: (using )
+- Database management: (using SQLite with the MatLab interface)
+- Random data analysis/statistical analysis
 
 {% capture text %}
 #### Previous research experience <a name="paragraph2"></a>

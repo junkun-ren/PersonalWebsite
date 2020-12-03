@@ -101,10 +101,10 @@ Advisor: Dr. Dorothy Wallace
 {% include figure.html img="migration illustration.png" alt="migration illustration" caption="Migration across a network of ponds (blue: permanent pond)" width="45%" %}
 **Migration update algorithm**:
 - Simplified model (no population dynamics involved; `D. Wallace et al. 2014 - Appl. Math. Comput.`)
-	- Find all unpopulated ponds, then for each one of them, identify all its near ponds and the distances in between. Calculate the overall probability of updating unpopulated nodes to populated (i.e., the probability that at least one populated neighbor pond would migrate to the pond of interest) based on migration probability and distance.
-	- Find all populated ponds, determine whether to update each of them to unpopulated based on extinction probability.
+	- Find all unpopulated ponds, then for each one of them, identify all its near ponds and the distances in between. Calculate the overall probability of updating one unpopulated node to populated (i.e., the probability that at least one populated neighbor pond would migrate to the pond of interest) based on the migration probability and the distance.
+	- Find all populated ponds, determine whether to update each of them to unpopulated based on the extinction probability.
 
-In order to make migration process more realistic, we integrate population dynamics in each pond into migration.
+In order to make the migration process more realistic, I integrated the population dynamics in each pond into the migration process.
 - Integrated model (population dynamics incorporated)
 	- Population update (including extinction).
 	- Find all ponds that have terrestrial adults, determine whether each of these ponds will migrate independently based on migration probability.
