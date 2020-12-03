@@ -12,8 +12,8 @@ nav: true
 {% endcapture %}
 {% include alert.html text=text color=secondary %}
 
-Space Medicine Innovations Laboratory, Department of Biomedical Research, Dartmouth College, Hanover, NH<br/>
 Advisor: Dr. Jay Buckey<br/>
+Space Medicine Innovations Laboratory, Department of Biomedical Research, Dartmouth College, Hanover, NH<br/>
 *Aug.2019 - Aug.2020*
 
 Main projects:
