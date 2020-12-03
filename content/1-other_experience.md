@@ -36,18 +36,18 @@ Other duties:
 {% include alert.html text=text color=secondary %}
 
 Master thesis project<br/>
+Advisor: Dr. Edward Giovannucci, Dr. Kathryn Wilson
 Harvard T.H. Chan School of Public Health, Boston, MA<br/>
 *Nov.2018 - May.2019*<br/>
-Advisor: Dr. Edward Giovannucci, Dr. Kathryn Wilson
 
 - Conducted prospective study to investigate associations between regular and decaffeinated coffee intakes and tumor angiogenesis measured by microvessel density, vessel size, and irregularity in >560 diagnosed prostate cancer patients:
 	- Processed data from the Health Professionals Follow-Up Study. Adjusted for other coffee category and potential confounders by linear regression. Performed sensitivity analysis on cancer stage at time of diagnosis.
 	- Observed no significant association, suggesting coffee consumption might affect prostate cancer risk through other mechanisms uninvolved with angiogenesis.  
 
 
+Advisor: Dr. Amy Tsurumi, Dr. Laurence Rahme <br/>
 LG Rahme Lab, Massachusetts General Hospital, Boston, MA<br/>
 *Jun.-Aug.2018*<br/>
-Supervisor: Dr. Laurence Rahme, Dr. Amy Tsurumi <br/>
                      
 - Built model to predict vulnerability to infections in burn and trauma patients in prospective cohort study: 
 	- Processed data collected for the Inflammation and Host Response to Injury (Glue Grant) study based on study design. Conducted massive data cleaning and exploratory data analysis. 
@@ -55,9 +55,9 @@ Supervisor: Dr. Laurence Rahme, Dr. Amy Tsurumi <br/>
 
 
 Undergraduate thesis project<br/>
+Advisor: Dr. Chunlei Shi
 Food Safety and Microorganism, SJTU-Bor S.Luh Food Safety Research Center, Shanghai, China<br/>
 *Mar.2016 - May.2017*<br/>
-Advisor: Dr. Chunlei Shi
 
 - Studied effect of meat exudate on biofilm formation of Listeria Monocytogenes (LM):
 	- Sampled >200 raw meat products from markets and proliferated, isolated, identified LM. Incubated LM biofilm using meat exudate produced through freeze-thaw cycles from raw chicken, pork, and beef.
@@ -66,6 +66,7 @@ Advisor: Dr. Chunlei Shi
 
 *Mar.-Aug.2015*<br/>
 Advisor: Dr. Pu Jing
+Food Safety and Microorganism, SJTU-Bor S.Luh Food Safety Research Center, Shanghai, China<br/>
 
 - Promoted extraction efficiency of anthocyanin from purple sweet potatoes (PSPs). Studied antioxidant activity of anthocyanin-rich extracts from PSPs in C. elegans:
 	- Applied aqueous two-phase system for PSPs extraction and optimized extraction conditions (pH, ethanol and ammonium sulfate concentration) using a Box-Behnken model design with four responses (desirability of 0.908).
