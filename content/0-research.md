@@ -4,18 +4,18 @@ nav: true
 ---
 
 ##### Current research projects <a name="top">
-1. [Plankton](#paragraph1)
+1. [An eco-evolutionary stoichiometry food-web model of the plankton community](#paragraph1)
     1. [Model setup](#subparagraph1)
     2. [Model extension](#subparagraph2)
     3. [Questions to answer](#subparagraph3)
     4. [Example results](#subparagraph4)
-2. [Salamander](#paragraph2)
+2. [Modeling tiger salamander's migration and phenotypic plasticity](#paragraph2)
     1. [Background](#subparagraph2-1)
     2. [Population dynamics](#subparagraph2-2)
     3. [Migration update](#subparagraph2-3)
 
 {% capture text %}
-#### A stoichiometry food-chain model of plankton community <a name="paragraph1"></a>
+#### An eco-evolutionary stoichiometry food-web model of the plankton community <a name="paragraph1"></a>
 {% endcapture %}
 {% include alert.html text=text color=secondary %}
 Advisor: Dr. Shaopeng Wang
@@ -108,7 +108,7 @@ In order to make migration process more realistic, we integrate population dynam
 	- Next population update (including extinction).
    
 **Illustration**:
-{% include modal.html button="&nbsp; &nbsp; CV &nbsp; &nbsp;" color="info" title="Illustration video" text="I am working on embedding the video!" %}
+{% include modal.html button="&nbsp; Migration video &nbsp;" color="info" title="Illustration video" text="I am working on embedding the video!" %}
 <!--
 continuous model:
 equilibrium has feasibility? 
