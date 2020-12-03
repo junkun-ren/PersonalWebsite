@@ -41,7 +41,7 @@ My research interests are mechanism-focused and theoretically-focused. I am part
 </span> 
 
 
-{% include button.html text="     CV     " link="https://junkun-ren.github.io/PersonalWebsite/content/2-about_me.html" color="info" %}
+{% include button.html text=" &nbsp;CV&nbsp;" link="https://junkun-ren.github.io/PersonalWebsite/content/2-about_me.html" color="info" %}
 
 
 #### Relavent courses
@@ -79,7 +79,6 @@ The History and Concepts of Quantum Physics
 -->
 
 
-Previous website (not in use)
 
 
 
