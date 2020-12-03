@@ -17,7 +17,7 @@ nav: true
 {% capture text %}
 #### A stoichiometry food-chain model of plankton community <a name="paragraph1"></a>
 {% endcapture %}
-{% include alert.html text=text color="secondary" %}
+{% include alert.html text=text color=secondary %}
 Advisor: Dr. Shaopeng Wang
 
 <a name="subparagraph1"></a>
@@ -76,7 +76,7 @@ Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et a
 {% capture text %}
 #### A theoretical framework integrating tiger salamander population dynamics and migration across a pond network <br/> <a name="paragraph2"></a>
 {% endcapture %}
-{% include alert.html text=text color= "secondary" %}
+{% include alert.html text=text color= secondary %}
 Advisor: Dr. Dorothy Wallace
 
 ##### Background<a name="subparagraph2-1"></a>
