@@ -20,7 +20,7 @@ nav: true
 {% endcapture %}
 {% include alert.html text=text color=secondary %}
 Advisor: Dr. Shaopeng Wang<br/>
-The Theoretical Ecology Lab, Peking University, Beijing
+*The Theoretical Ecology Lab, Peking University, Beijing*
 
 ##### Model setup<a name="subparagraph1"></a>
 {% include figure.html img="plankton model illustration.png" alt="model illustration" caption="2-level food-chain model with stoichiometric constraints indicated in red.<br/>This system is assumed to be carbon sufficient and closed in terms of N and P." width="85%" %}
@@ -82,7 +82,7 @@ Besides, I am curious what would happen if the strict dichotomy between autotrop
 {% endcapture %}
 {% include alert.html text=text color= secondary %}
 Advisor: Dr. Dorothy Wallace<br/>
-Department of Mathematics, Dartmouth College, Hanover, NH
+*Department of Mathematics, Dartmouth College, Hanover, NH*
 
 ##### Background<a name="subparagraph2-1"></a>
 - The pond network is based on the thousands of Isolated shallow playas at Southern high plains. These transient playas could dry out during dry seasons leading to the local extinction of tiger salamander (*Ambystoma tigrinum*).
