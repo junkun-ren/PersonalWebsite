@@ -5,9 +5,6 @@ nav: true
 #### Research interests
 My research interests are mechanism-focused and theoretically-focused. I am particularly passionate about developing and applying models and theories to explain or interpret phenomena in nature. 
 
-*?'theoretical ecology' pertains to the use of mathe- matical and computational models to explore eco- logical questions, ranging from individual behavior, through the intertwined complexities of communi- ties, to even global-scale phenomena."* - Robert D. Holt.
-
-
 
 <!--
  <table border="1">
