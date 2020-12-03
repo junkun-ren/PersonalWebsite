@@ -40,8 +40,8 @@ My research interests are mechanism-focused and theoretically-focused. I am part
      Year: 2015
 </span> 
 
-
-{% include button.html text=" &nbsp; &nbsp; CV &nbsp; &nbsp;" link="https://junkun-ren.github.io/PersonalWebsite/content/2-about_me.html" color="info" %}
+{% include modal.html button="&nbsp; &nbsp; CV &nbsp; &nbsp;" color="info" title="CV" text="Thank you for your interests. I am working on uploading it..." %}
+<!--{% include button.html text=" &nbsp; &nbsp; CV &nbsp; &nbsp;" link="https://junkun-ren.github.io/PersonalWebsite/content/2-about_me.html" color="info" %}-->
 
 
 #### Relavent courses
