@@ -17,11 +17,11 @@ nav: true
 {% capture text %}
 #### A stoichiometry food-chain model of plankton community <a name="paragraph1"></a>
 {% endcapture %}
-{% include alert.html text=text color="success" %}
+{% include alert.html text=text color="secondary" %}
 Advisor: Dr. Shaopeng Wang
 
 <a name="subparagraph1"></a>
-{% include figure.html img="plankton model illustration.png" alt="model illustration" caption="2 level food chain model with stoichiometric constrains in red<br/>This system is assumed to be carbon sufficient and closed in terms of N and P." width="85%" %}
+{% include figure.html img="plankton model illustration.png" alt="model illustration" caption="2-level food-chain model with stoichiometric constrains indicated in red.<br/>This system is assumed to be carbon sufficient and closed in terms of N and P." width="85%" %}
 {% include figure.html img="equations.png" alt="model equations" caption="Model equations<br/>i:N,P; j:zooplankton; k:phytoplankton" width="90%" %}
 
 *Uptake*: there is a linear trade-off between phytoplankton's investment in N update and P uptake, indicating by p_N + p_P = 1. An increase in the relative investment in N uptake (p_N) would mean a decrease in the relative investment in P uptake meanwhile. In this model, it is also assumed that this uptake trade-off trait p_N can be an evolving trait which depends on parameter V. V is the genetic variance of this trait, V = 0 means this trait can't evolve at all. 
@@ -75,7 +75,7 @@ Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et a
 {% capture text %}
 #### A theoretical framework integrating tiger salamander population dynamics and migration across a pond network <br/> <a name="paragraph2"></a>
 {% endcapture %}
-{% include alert.html text=text color= "success" %}
+{% include alert.html text=text color= "secondary" %}
 Advisor: Dr. Dorothy Wallace
 
 ##### Background<a name="subparagraph2-1"></a>
@@ -106,11 +106,11 @@ In order to make migration process more realistic, we integrate population dynam
 	- Next population update (including extinction).
    
 **Illustration**:
-
-
-
+{% include modal.html button="&nbsp; &nbsp; CV &nbsp; &nbsp;" color="info" title="Illustration video" text="I am working on embedding the video!" %}
+<!--
 continuous model:
 equilibrium has feasibility? 
 the time taken to become equilibrium, if too long might cause to extinction, allee effect
+-->
 
 
