@@ -41,7 +41,7 @@ My research interests are mechanism-focused and theoretically-focused. I am part
 </span> 
 
 
-{% include button.html text=" &nbsp;nbsp;CVnbsp;&nbsp;" link="https://junkun-ren.github.io/PersonalWebsite/content/2-about_me.html" color="info" %}
+{% include button.html text=" &nbsp; &nbsp; CV &nbsp; &nbsp;" link="https://junkun-ren.github.io/PersonalWebsite/content/2-about_me.html" color="info" %}
 
 
 #### Relavent courses
