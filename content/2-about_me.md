@@ -35,7 +35,7 @@ My research interests are mechanism-focused and theoretically-focused. I am part
       Year: 2019<br/>
     **B.S.E. in Food Science and Engineering**<br/>
       *Shanghai Jiao Tong University*<br/>
-      Year: 2017
+      Year: 2017<br/>
      *Exchange, National University of Singapore*<br/>
      Year: 2015
 </span> 
