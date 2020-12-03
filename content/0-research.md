@@ -46,9 +46,9 @@ If the two zooplankton can actually coexist, will that enhance the coexistence o
 
 Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et al., BAAE)```, there are two main questions I hope to answer with this model from a stoichiometry perspective:
 1. Coexistence question
-  - Under different combinations of N,P availability and ratio, can different zooplankton and phytoplankton coexist?
-  - Will the evolution of phytoplankton's uptake trait affect coexistence?
-  - How will the variation and variability of parameters like maximum & minimum cell element quota and grazing selectivity affect coexistence?<br/>
+ - Under different combinations of N,P availability and ratio, can different zooplankton and phytoplankton coexist?
+ - Will the evolution of phytoplankton's uptake trait affect coexistence?
+ - How will the variation and variability of parameters like maximum & minimum cell element quota and grazing selectivity affect coexistence?<br/>
  - These questions can be summarized into one question - what is the mechanism of coexistence and what role does stoichiometry play in it?
 
 2. Biodiversity and Ecosystem Functioning (BEF) question
@@ -62,8 +62,9 @@ Besides, I am curious what would happen if the strict dichotomy between autotrop
 {% include figure.html img="phyto to zoo flux3.png" alt="producer to consumer flux under different nutrient supply and single or two zooplankton comparison" caption="Zooplankton diversity and different nutrient supply on flux between phytoplankton and zooplankton" width="95%" %}
 
 - Energy transfer efficiency is much lower than element transfer efficiency; carbon flux is much higher than element flux between consumer and producer.
-- The diversity of consumers can enhance transfer efficiency while doesn't necessarily enhance the flux from phytoplankton to zooplankton.
+- The diversity of consumers can enhance transfer efficiency while it doesn't necessarily enhance the flux from phytoplankton to zooplankton.
 - Increasing N,P input doesn't necessarily promote transfer efficiency but in general could promote the flux.
+- C and N transfer efficiencies have fairly similar contour shapes while P's contours are relatively distinct, i.e., the N and P supplies that maximize C and N transfer efficiencies don't necessarily maximize the P transfer efficiency.
 - The flux from resource to phytoplankton has similar patterns as the flux from phytoplankton to zooplankton (results not shown).
 
 {% include figure.html img="flux and TE comparison.png" alt="TE and flux comparison between elements and different producer/consumer diversity" caption="Transfer efficiency and flux comparison between elements and different producer/consumer diversity at intermediate N, P supply" width="95%" %}
