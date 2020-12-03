@@ -84,8 +84,8 @@ Advisor: Dr. Dorothy Wallace
 
 ##### Background<a name="subparagraph2-1"></a>
 - The pond network is based on the thousands of Isolated shallow playas at Southern high plains. These transient playas could dry out during dry seasons leading to the local extinction of tiger salamander (*Ambystoma tigrinum*).
-- Tiger salamander have two forms of adults, metamorph (terrestrial) and paedomorph (aquatic).  Upon maturation, juveniles could become either of the forms (i.e., phenotypic plasticity), where metamophs have the ability to migrate. 
-- Dispersal and recolonization of those transient ponds are essential for the persistence of tiger salamander.
+- Tiger salamander have two forms of adults, metamorphs (terrestrial) and paedomorphs (aquatic).  Upon maturation, juveniles could become either of the forms (i.e., phenotypic plasticity), but only metamorphs have the ability to migrate. 
+- Dispersal and recolonization of these transient ponds are essential for the persistence of tiger salamander.
 
 ##### Single pond population dynamics<a name="subparagraph2-2"></a>
 {% include figure.html img="single pond population dynamics illustration.png" alt="single pond population dynamics" caption="One circle update of single pond population" width="75%" %}
