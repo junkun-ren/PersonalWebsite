@@ -20,7 +20,7 @@ nav: true
 {% include alert.html text=text color=secondary %}
 Advisor: Dr. Shaopeng Wang
 
-<a name="subparagraph1"></a>
+**Model setup**<a name="subparagraph1"></a>
 {% include figure.html img="plankton model illustration.png" alt="model illustration" caption="2-level food-chain model with stoichiometric constraints indicated in red.<br/>This system is assumed to be carbon sufficient and closed in terms of N and P." width="85%" %}
 {% include figure.html img="equations.png" alt="model equations" caption="Model equations<br/>i:N,P; j:zooplankton; k:phytoplankton" width="90%" %}
 
@@ -34,12 +34,12 @@ Advisor: Dr. Shaopeng Wang
 
 **Not only the nutrient availability is important for these processes, the relative amount of different elements also matters**. Such constraints are shown in red in the equations. It can be seen that it is "everywhere".
 
-<a name="subparagraph2"></a>
+**Model extension**<a name="subparagraph2"></a>
 {% include figure.html img="multiple zooplankton or phytoplankton illustration.png" alt="multiple zooplankton or phytoplankton illustration" caption="Model extension - more species within each trophic level" width="90%" %}
 
 Given the single consumer-single producer model, it is natural to wonder whether two zooplankton could coexist in this system. If two zooplankton have different nutrition demands - one is N-demanding, the other is P-demanding, can they coexist on one species of phytoplankton? It might happen based on a theoretical prediction (`Loladze et al. 2004 - Theor. Popul. Biol.`), that is stable coexistence might occur due to a balance between food quality and quantity.
 
-If the two zooplankton can actually coexist, will that enhance the coexistence of multiple phytoplankton as well? Because aside from phytoplankton competing for resources, there also exists apparent competition between phytoplankton enabled by the existence of zooplankton. If there is a trade-off between two phytoplankton (resource and grazing), then one resource and one zooplankton could promote the coexistence of these two phytoplankton. Therefore, it is reasonable to predict that 2 resources and 2 zooplankton might be able to maintain the coexistence of more phytoplankton. And the coexistence of these phytoplankton can in turn support two zooplankton as well.
+If the two zooplankton can actually coexist, will that enhance the coexistence of multiple phytoplankton as well? Because aside from phytoplankton competing for resources, there also exists apparent competition between phytoplankton enabled by the existence of zooplankton. One resource and one zooplankton could promote the coexistence of two phytoplankton if there are trade-offs between these two phytoplankton regarding to resources and grazing. Therefore, it is reasonable to predict that 2 resources and 2 zooplankton might be able to maintain the coexistence of more phytoplankton. And the coexistence of these phytoplankton can in turn support two zooplankton as well.
 
 **Questions to answer**<a name="subparagraph3"></a>
 {% include figure.html img="BEF stoichiometry framework.png" alt="BEF stoichiometry framework illustration" caption="A conceptual framework of the stoichiometric relationship between biodiversity and ecosystem functioning (BEF) in food web. H. Hillebrand et al., BAAE." width="90%" %}
