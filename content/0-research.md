@@ -48,15 +48,13 @@ Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et a
 1. Coexistence question
  - Under different combinations of N,P availability and ratio, can different zooplankton and phytoplankton coexist?
  - Will the evolution of phytoplankton's uptake trait affect coexistence?
- - How will the variation and variability of parameters like maximum & minimum cell element quota and grazing selectivity affect coexistence?
- 
- These questions can be summarized into one question - what is the mechanism of coexistence and what role does stoichiometry play in it?
+ - How will the variation and variability of parameters like maximum & minimum cell element quota and grazing selectivity affect coexistence?<br/>
+These questions can be summarized into one question - what is the mechanism of coexistence and what role does stoichiometry play in it?
 
 2. Biodiversity and Ecosystem Functioning (BEF) question
  - Whether biodiversity could enhance the flux of C (energy)/N/P and transfer efficiency?
- - Is the effect of biodiversity on function mediated by stoichiometry in some way?
- 
- Besides, I am curious what would happen if the strict dichotomy between autotroph and heterotroph is removed, i.e., allowing mixotrophy.
+ - Is the effect of biodiversity on function mediated by stoichiometry in some way?<br/>
+Besides, I am curious what would happen if the strict dichotomy between autotroph and heterotroph is removed, i.e., allowing mixotrophy.
 
 **Example results**<a name="subparagraph4"></a>
 {% include figure.html img="TE3.png" alt="Transfer efficiency under different nutrient supply and single or two zooplankton comparison" caption="Zooplankton diversity and different nutrient supply on transfer efficiency" width="95%" %}
