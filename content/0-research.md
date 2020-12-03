@@ -42,14 +42,14 @@ Given the single consumer-single producer model, it is natural to wonder whether
 If the two zooplankton can actually coexist, will that enhance the coexistence of multiple phytoplankton as well? Because aside from phytoplankton competing for resources, there also exists apparent competition between phytoplankton enabled by the existence of zooplankton. One resource and one zooplankton could promote the coexistence of two phytoplankton if there are trade-offs between these two phytoplankton regarding to resources and grazing. Therefore, it is reasonable to predict that 2 resources and 2 zooplankton might be able to maintain the coexistence of more phytoplankton. And the coexistence of these phytoplankton can in turn support two zooplankton as well.
 
 **Questions to answer**<a name="subparagraph3"></a>
-{% include figure.html img="BEF stoichiometry framework.png" alt="BEF stoichiometry framework illustration" caption="A conceptual framework of the stoichiometric relationship between biodiversity and ecosystem functioning (BEF) in food web. H. Hillebrand et al., BAAE." width="90%" %}
-
+{% include figure.html img="BEF stoichiometry framework.png" alt="BEF stoichiometry framework illustration" caption="A conceptual framework of the stoichiometric relationship between biodiversity and ecosystem functioning (BEF) in a trophically structured community. H. Hillebrand et al., BAAE." width="90%" %}
 
 Inspired by the concepts illustrated in the diagram above ```(H. Hillebrand et al., BAAE)```, there are two main questions I hope to answer with this model from a stoichiometry perspective:
 1. Coexistence question
  - Under different combinations of N,P availability and ratio, can different zooplankton and phytoplankton coexist?
  - Will the evolution of phytoplankton's uptake trait affect coexistence?
- - How will the variation and variability of parameters like maximum & minimum cell element quota and selectivity affect coexistence?<br/>
+ - How will the variation and variability of parameters like maximum & minimum cell element quota and grazing selectivity affect coexistence?<br/>
+ 
  These questions can be summarized into a question - what is the mechanism of coexistence and what role does stoichiometry play in it?
 
 2. Biodiversity and Ecosystem Functioning (BEF) question
