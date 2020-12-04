@@ -43,7 +43,7 @@ Advisor: Dr. Edward Giovannucci, Dr. Kathryn Wilson<br/>
 
 Master thesis project<br/>
 - Conducted prospective study to investigate associations between regular and decaffeinated coffee intakes and tumor angiogenesis measured by microvessel density, vessel size, and irregularity in >560 diagnosed prostate cancer patients:
-	- Processed data from the Health Professionals Follow-Up Study. Adjusted for other coffee category and potential confounders by linear regression. Performed sensitivity analysis on cancer stage at time of diagnosis.
+	- Processed data from the Health Professionals Follow-Up Study. Adjusted for coffee category and potential confounders using linear regression. Performed sensitivity analysis on cancer stage at time of diagnosis.
 	- Observed no significant association, suggesting coffee consumption might affect prostate cancer risk through other mechanisms uninvolved with angiogenesis.  
 
 LG Rahme Lab, Massachusetts General Hospital, Boston, MA<br/>
