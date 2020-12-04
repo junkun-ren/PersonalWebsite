@@ -23,7 +23,8 @@ Main projects:
 - Developed case definition and investigated potential cause for unexplained acquired auditory neuropathy in young Tanzanian adults.
 
 Other duties:
-- Data analysis/statistical analysis for some other ongoing projects in the lab or statistical method part of proposals
+- Data analysis/statistical analysis for some other ongoing projects in the lab
+- Assisting with developing statistical methods for proposals
 - Assisting with database management: (using SQLite with the MatLab interface)
 - Assisting with study protocol development
 - Testing/troubleshooting equipments
