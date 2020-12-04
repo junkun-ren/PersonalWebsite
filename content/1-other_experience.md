@@ -51,7 +51,7 @@ Advisor: Dr. Amy Tsurumi, Dr. Laurence Rahme <br/>
 *Jun. - Aug.2018*<br/>
                      
 - Built model to predict vulnerability to infections in burn and trauma patients in prospective cohort study: 
-	- Processed data collected for the Inflammation and Host Response to Injury (Glue Grant) study based on study design. Conducted massive data cleaning and exploratory data analysis. 
+	- Processed data from the Inflammation and Host Response to Injury study. Conducted massive data cleaning and exploratory data analysis. 
 	- Employed stepwise, Lasso, and Ridge regression to select predictors. Employed multivariate logistic regression to predict infection event. Assessed performance by cross-validation based on AUROC. 
 
 
