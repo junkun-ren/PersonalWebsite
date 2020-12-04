@@ -68,7 +68,7 @@ Advisor: Dr. Pu Jing<br/>
 
 - Promoted extraction efficiency of anthocyanin from purple sweet potatoes (PSPs). Studied antioxidant activity of anthocyanin-rich extracts from PSPs in *C. elegans*:
 	- Applied aqueous two-phase system for PSPs extraction and optimized extraction conditions (pH, ethanol and ammonium sulfate concentration) using a Box-Behnken model design with four responses (desirability of 0.908).
-	- Acquired C. elegans and maintained them independently for 3 months. Cultured strain N2 with PSPs extracts and induced oxidative stress in worms with juglone. Observed prolonged average LT50 by 21.4% with P value <0.001.
+	- Acquired *C. elegans* and maintained them independently for 3 months. Cultured strain N2 with PSPs extracts and induced oxidative stress in worms with juglone. Observed prolonged average LT50 by 21.4% with P value <0.001.
 
 
 
