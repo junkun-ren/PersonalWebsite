@@ -27,7 +27,7 @@ Other duties:
 - Assisting with developing statistical methods for proposals
 - Assisting with database management: (using SQLite with the MatLab interface)
 - Assisting with study protocol development
-- Testing/troubleshooting equipments
+- Testing/troubleshooting equipment
 - Testing/updating softwares
 - Testing subjects
 
