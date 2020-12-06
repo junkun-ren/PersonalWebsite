@@ -49,7 +49,7 @@ My research interests are mechanism-focused and theoretically-focused. I am part
 - Undergraduate
 	- Linear Algebra, Calculus (2 semesters), Probability and Statistics, Biostatistics
 	- Inorganic and Analytic chemistry, Organic chemistry, Biochemistry, Physical Chemistry
-	- Physics (2 semesters), Food engineering
+	- Physics (2 semesters), Food Engineering
 	- Life on the Earth, Life Science, Biology, Microbiology, Toxicology
 - Master
 	- Mathematical Modeling, Disordered Systems and Stochastic Processes
