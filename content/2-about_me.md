@@ -64,7 +64,7 @@ My research interests are mechanism-focused and theoretically-focused. I am part
 #### Publication
 - **Ren J**., Stankovic A.S., Knaus D.A., Phillips S.D., Kynor D.B., Buckey J.C. (2020) Urinary calcium for tracking bone loss and kidney stone risk in space. *Aerospace Medicine and Human Performance*, 91(9):689-696.
 - **Ren J**., Zhan Y., Song F., Lu H., Chen G., Fellows A.M., Allen L., Clavier O., Soli S.D., Shi Y., Buckey J.C. A central auditory test reveals differences between drug treatment regimens in HIV infected adults. *In revision*.
-- Massawe E., Moshi N., **Ren J**., Rieke C.C., Magohe, A., Fellows A.M., Arega E.A., Goima I., Karagas M.R., Buckey J.C. Unexplained multi-sensory neuropathy syndrome in young Tanzanian adults. *In revision*.
+- Massawe E., Moshi N., **Ren J**., Rieke C.C., Magohe, A., Fellows A.M., Arega E.A., Goima I., Karagas M.R., Buckey J.C. Unexplained multi-sensory neuropathy syndrome in young Tanzanian adults. *Submitted to The Lancet*.
 - Cai Z., Song L., Qian B., Xu W., **Ren J**., Jing P., Oey I. (2018). Understanding the effect of anthocyanins extracted from purple sweet potatoes on alcohol-induced liver injury in mice. *Food Chemistry*, 245, 463-470.
 
 #### Conference
